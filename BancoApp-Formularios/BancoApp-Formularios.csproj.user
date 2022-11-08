@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Presentacion\Formularios_Auxiliares\Form_DatosDeContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Formularios_Auxiliares\Form_EstadoCivil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Form_AltaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Form_MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Form_Movimiento_de_saldos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Form_NuevaCuenta_ClienteExistente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Login\Form_Alta_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Login\Form_Baja_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Login\Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Login\Form_ModificarLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\Form_MostrarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

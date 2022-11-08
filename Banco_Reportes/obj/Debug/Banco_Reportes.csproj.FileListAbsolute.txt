@@ -1,0 +1,142 @@
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Banco_Reportes.exe.config
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Banco_Reportes.exe
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Banco_Reportes.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\EnvDTE.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\stdole.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\EnvDTE.xml
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.AssemblyReference.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.Properties.Resources.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.GenerateResource.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.CopyComplete
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.exe
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.FORMULARIOS.FormReporteCuentas.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Banco_Reportes.exe.config
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Banco_Reportes.exe
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Banco_Reportes.pdb
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\EnvDTE.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\stdole.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Microsoft.MSXML.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.AssemblyReference.cache
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.SuggestedBindingRedirects.cache
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.FORMULARIOS.FormReporteCuentas.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.Properties.Resources.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.csproj.CopyComplete
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.exe
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\Banco_Reportes\obj\Debug\Banco_Reportes.pdb

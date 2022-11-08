@@ -1,0 +1,314 @@
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.AssemblyReference.cache
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Login.Form_Alta_Login.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Login.Form_Baja_Login.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\bacnoApp_winForm.Form_Inicio_de_Sesion.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Login.Form_ModificarLogin.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.GenerateResource.cache
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.AssemblyInfoInputs.cache
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.AssemblyInfo.cs
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.CoreCompileInputs.cache
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.exe
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.deps.json
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.runtimeconfig.json
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.pdb
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_BibliotecaDDL.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_BibliotecaDDL.pdb
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.CopyComplete
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\refint\BancoApp-Formularios.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.pdb
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.genruntimeconfig.cache
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\ref\BancoApp-Formularios.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_MenuPrincipal.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\CRUDbanco.Form_AltaCliente.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\CRUDbanco.Presentacion.Form_MostrarDatos.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Properties.Resources.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_NuevaCuenta_ClienteExistente.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_Movimiento_de_saldos.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Formularios_Auxiliares.Form_DatosDeContacto.resources
+C:\Users\54351\source\repos\SLN_APIBancoPrueba\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Formularios_Auxiliares.Form_EstadoCivil.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.exe
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.deps.json
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.runtimeconfig.json
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_BibliotecaDDL.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_Reportes.exe
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_BibliotecaDDL.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_Reportes.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_Reportes.exe.config
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.AssemblyReference.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Formularios_Auxiliares.Form_DatosDeContacto.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Formularios_Auxiliares.Form_EstadoCivil.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\CRUDbanco.Form_AltaCliente.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_MenuPrincipal.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\CRUDbanco.Presentacion.Form_MostrarDatos.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_Movimiento_de_saldos.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_NuevaCuenta_ClienteExistente.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Login.Form_Alta_Login.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Login.Form_Baja_Login.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\bacnoApp_winForm.Form_Inicio_de_Sesion.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Login.Form_ModificarLogin.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Properties.Resources.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.GenerateResource.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.AssemblyInfoInputs.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.AssemblyInfo.cs
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.CopyComplete
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\refint\BancoApp-Formularios.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.genruntimeconfig.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\ref\BancoApp-Formularios.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.exe
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.deps.json
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.runtimeconfig.json
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\BancoApp-Formularios.pdb
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_BibliotecaDDL.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_Reportes.exe
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_BibliotecaDDL.pdb
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_Reportes.pdb
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_Reportes.exe.config
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.AssemblyReference.cache
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Formularios_Auxiliares.Form_DatosDeContacto.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Formularios_Auxiliares.Form_EstadoCivil.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\CRUDbanco.Form_AltaCliente.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_MenuPrincipal.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\CRUDbanco.Presentacion.Form_MostrarDatos.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_Movimiento_de_saldos.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_NuevaCuenta_ClienteExistente.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Login.Form_Alta_Login.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Login.Form_Baja_Login.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\bacnoApp_winForm.Form_Inicio_de_Sesion.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Login.Form_ModificarLogin.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Properties.Resources.resources
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.AssemblyInfoInputs.cache
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.AssemblyInfo.cs
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.CopyComplete
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\refint\BancoApp-Formularios.dll
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.pdb
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.genruntimeconfig.cache
+C:\Users\54351\Desktop\Reportes banco\8-11\Prueba_BANCO_COMPLETO-main\BancoApp-Formularios\obj\Debug\net6.0-windows\ref\BancoApp-Formularios.dll
