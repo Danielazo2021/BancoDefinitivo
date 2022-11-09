@@ -28,7 +28,7 @@ namespace BancoApp_Formularios
             //Application.Run(new Form_ModificarLogin());
             //cliente//
             //Application.Run(new Form_AltaCliente());
-            //Application.Run(new Form_MenuPrincipal());
+           // Application.Run(new Form_MenuPrincipal());
             //Application.Run(new Form_MostrarDatos());
             //Application.Run(new Form_Movimiento_de_saldos());
            // Application.Run(new Form_NuevaCuenta_ClienteExistente());

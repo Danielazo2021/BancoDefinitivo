@@ -11,5 +11,6 @@ namespace Banco_BibliotecaDDL.Servicios
     {
         public DataTable ReporteCuentas();
         public DataTable ReporteSaldos(int valor_dolar);
+        public DataTable ReporteCuentasBaja(DateTime desde, DateTime hasta);
     }
 }

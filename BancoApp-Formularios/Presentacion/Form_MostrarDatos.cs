@@ -35,6 +35,15 @@ namespace CRUDbanco.Presentacion
                 MessageBox.Show("Debe ingresar el dni");
                 return;
             }
+            try
+            {
+                int dni = Convert.ToInt32(txtDni.Text);
+            }
+            catch
+            {
+                MessageBox.Show("El DNI no es valido, ingrese un numero de documento");
+                return;
+            }
 
             await MostrarDataGridViewAsync();
 
@@ -94,7 +103,7 @@ namespace CRUDbanco.Presentacion
             }
             catch (Exception ex)
             {
-                MessageBox.Show("ERror!");
+                MessageBox.Show("Error!");
             }
         }
 
@@ -127,6 +136,14 @@ namespace CRUDbanco.Presentacion
             new Form_Movimiento_de_saldos().ShowDialog();
         }
 
-       
+        private void btnVolverMenuAnterior_Click(object sender, EventArgs e)
+        {
+            this.Dispose();
+        }
+
+        private void Form_MostrarDatos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

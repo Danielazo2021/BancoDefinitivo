@@ -88,6 +88,7 @@ namespace BancoApp_Formularios.Presentacion
 
         private void reporteConFiltrosToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            new Banco_Reportes.FORMULARIOS.FormReporteCuentasBaja().Show();
             // meter unn reporte con filtro de fechas  . falta generar
         }
     }

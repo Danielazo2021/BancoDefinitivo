@@ -202,14 +202,17 @@ namespace CRUDbanco
             if (txtSaldo.Text == "")
             {
                 MessageBox.Show("Cargar un Saldo", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+                return;
             }
             if (txtUltimoMov.Text == "")
             {
                 MessageBox.Show("Cargue el ultimo movimiento", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+                return;
             }
             if (txtcbu.Text == "")
             {
                 MessageBox.Show("Cargar el cbu", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+            return ;
             }
             foreach (DataGridViewRow item in dgvClientes.Rows)
             {
@@ -248,6 +251,11 @@ namespace CRUDbanco
         {
             await ObtenerProximoCBUAsync();
             MessageBox.Show("Proximo cbu Actualizado");
+        }
+
+        private void btnVolverMenuAnterior_Click(object sender, EventArgs e)
+        {
+            this.Dispose();
         }
     }
 }

@@ -61,7 +61,7 @@ namespace Banco_BibliotecaDDL.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a Data Source=DESKTOP-OQ281N4\MRIVAS;Initial Catalog=BancoDB;Integrated Security=True;TrustServerCertificate=True;.
+        ///   Busca una cadena traducida similar a Data Source=localhost\SQLEXPRESS;Initial Catalog=BancoDB;Integrated Security=True;TrustServerCertificate=True;.
         /// </summary>
         internal static string cnnCRUDbanco {
             get {

@@ -38,6 +38,11 @@
             this.label5 = new System.Windows.Forms.Label();
             this.txtSaldo = new System.Windows.Forms.TextBox();
             this.dgvClientes = new System.Windows.Forms.DataGridView();
+            this.colCbu = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SALDO = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colTipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.UltimoMovimiento = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colAccion = new System.Windows.Forms.DataGridViewButtonColumn();
             this.btnAceptar = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.cboTipoCuenta = new System.Windows.Forms.ComboBox();
@@ -52,13 +57,9 @@
             this.label8 = new System.Windows.Forms.Label();
             this.txtMail = new System.Windows.Forms.TextBox();
             this.cboEstadoCivil = new System.Windows.Forms.ComboBox();
-            this.colCbu = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.SALDO = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colTipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.UltimoMovimiento = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colAccion = new System.Windows.Forms.DataGridViewButtonColumn();
             this.label9 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnVolverMenuAnterior = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvClientes)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -167,6 +168,38 @@
             this.dgvClientes.Size = new System.Drawing.Size(643, 126);
             this.dgvClientes.TabIndex = 10;
             this.dgvClientes.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvClientes_CellContentClick);
+            // 
+            // colCbu
+            // 
+            this.colCbu.HeaderText = "CBU";
+            this.colCbu.Name = "colCbu";
+            this.colCbu.ReadOnly = true;
+            // 
+            // SALDO
+            // 
+            this.SALDO.HeaderText = "SALDO";
+            this.SALDO.Name = "SALDO";
+            this.SALDO.ReadOnly = true;
+            // 
+            // colTipo
+            // 
+            this.colTipo.HeaderText = "TIPO DE CUENTA";
+            this.colTipo.Name = "colTipo";
+            this.colTipo.ReadOnly = true;
+            // 
+            // UltimoMovimiento
+            // 
+            this.UltimoMovimiento.HeaderText = "ÚLTIMO MOVIMIENTO";
+            this.UltimoMovimiento.Name = "UltimoMovimiento";
+            this.UltimoMovimiento.ReadOnly = true;
+            // 
+            // colAccion
+            // 
+            this.colAccion.HeaderText = "ACCIÓN";
+            this.colAccion.Name = "colAccion";
+            this.colAccion.ReadOnly = true;
+            this.colAccion.Text = "Eliminar";
+            this.colAccion.UseColumnTextForButtonValue = true;
             // 
             // btnAceptar
             // 
@@ -316,38 +349,6 @@
             this.cboEstadoCivil.Size = new System.Drawing.Size(248, 26);
             this.cboEstadoCivil.TabIndex = 4;
             // 
-            // colCbu
-            // 
-            this.colCbu.HeaderText = "CBU";
-            this.colCbu.Name = "colCbu";
-            this.colCbu.ReadOnly = true;
-            // 
-            // SALDO
-            // 
-            this.SALDO.HeaderText = "SALDO";
-            this.SALDO.Name = "SALDO";
-            this.SALDO.ReadOnly = true;
-            // 
-            // colTipo
-            // 
-            this.colTipo.HeaderText = "TIPO DE CUENTA";
-            this.colTipo.Name = "colTipo";
-            this.colTipo.ReadOnly = true;
-            // 
-            // UltimoMovimiento
-            // 
-            this.UltimoMovimiento.HeaderText = "ÚLTIMO MOVIMIENTO";
-            this.UltimoMovimiento.Name = "UltimoMovimiento";
-            this.UltimoMovimiento.ReadOnly = true;
-            // 
-            // colAccion
-            // 
-            this.colAccion.HeaderText = "ACCIÓN";
-            this.colAccion.Name = "colAccion";
-            this.colAccion.ReadOnly = true;
-            this.colAccion.Text = "Eliminar";
-            this.colAccion.UseColumnTextForButtonValue = true;
-            // 
             // label9
             // 
             this.label9.AutoSize = true;
@@ -369,6 +370,16 @@
             this.pictureBox1.TabIndex = 50;
             this.pictureBox1.TabStop = false;
             // 
+            // btnVolverMenuAnterior
+            // 
+            this.btnVolverMenuAnterior.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnVolverMenuAnterior.BackgroundImage")));
+            this.btnVolverMenuAnterior.Location = new System.Drawing.Point(12, 9);
+            this.btnVolverMenuAnterior.Name = "btnVolverMenuAnterior";
+            this.btnVolverMenuAnterior.Size = new System.Drawing.Size(50, 50);
+            this.btnVolverMenuAnterior.TabIndex = 51;
+            this.btnVolverMenuAnterior.UseVisualStyleBackColor = true;
+            this.btnVolverMenuAnterior.Click += new System.EventHandler(this.btnVolverMenuAnterior_Click);
+            // 
             // Form_AltaCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -376,6 +387,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(183)))), ((int)(((byte)(190)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.ClientSize = new System.Drawing.Size(1350, 729);
+            this.Controls.Add(this.btnVolverMenuAnterior);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.cboEstadoCivil);
@@ -445,6 +457,7 @@
         private DataGridViewButtonColumn colAccion;
         private Label label9;
         private PictureBox pictureBox1;
+        private Button btnVolverMenuAnterior;
     }
 }
 

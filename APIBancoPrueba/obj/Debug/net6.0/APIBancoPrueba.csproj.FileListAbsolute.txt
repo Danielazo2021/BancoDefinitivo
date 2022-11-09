@@ -488,3 +488,269 @@ C:\Users\myant\Documents\UTN\Git\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0
 C:\Users\myant\Documents\UTN\Git\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.pdb
 C:\Users\myant\Documents\UTN\Git\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.genruntimeconfig.cache
 C:\Users\myant\Documents\UTN\Git\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\ref\APIBancoPrueba.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\appsettings.json
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.exe
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.deps.json
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.runtimeconfig.json
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_BibliotecaDDL.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_Reportes.exe
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.ReportViewer.Common.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_BibliotecaDDL.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_Reportes.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_Reportes.exe.config
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.csproj.AssemblyReference.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.Properties.Resources.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.csproj.GenerateResource.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.AssemblyInfoInputs.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.AssemblyInfo.cs
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\scopedcss\bundle\APIBancoPrueba.styles.css
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.csproj.CopyComplete
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\refint\APIBancoPrueba.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.genruntimeconfig.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\ref\APIBancoPrueba.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\SqlServerTypes\x64\msvcr120.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\SqlServerTypes\x86\msvcr120.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\appsettings.json
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.exe
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.deps.json
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.runtimeconfig.json
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\APIBancoPrueba.pdb
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_BibliotecaDDL.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_Reportes.exe
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.ReportViewer.WinForms.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.ReportViewer.Common.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_BibliotecaDDL.pdb
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_Reportes.pdb
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\Banco_Reportes.exe.config
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.csproj.AssemblyReference.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.Properties.Resources.resources
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.AssemblyInfoInputs.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.AssemblyInfo.cs
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\scopedcss\bundle\APIBancoPrueba.styles.css
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.csproj.CopyComplete
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\refint\APIBancoPrueba.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.pdb
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\APIBancoPrueba.genruntimeconfig.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\APIBancoPrueba\obj\Debug\net6.0\ref\APIBancoPrueba.dll

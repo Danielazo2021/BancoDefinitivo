@@ -144,3 +144,121 @@ C:\Users\myant\Documents\UTN\Git\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\n
 C:\Users\myant\Documents\UTN\Git\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\refint\Banco_BibliotecaDDL.dll
 C:\Users\myant\Documents\UTN\Git\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.pdb
 C:\Users\myant\Documents\UTN\Git\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\ref\Banco_BibliotecaDDL.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_BibliotecaDDL.deps.json
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_BibliotecaDDL.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_BibliotecaDDL.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_Reportes.exe
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Microsoft.ReportViewer.Common.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_Reportes.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_Reportes.exe.config
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Newtonsoft.Json.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Newtonsoft.Json.xml
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.csproj.AssemblyReference.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.Properties.Resources.resources
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.csproj.GenerateResource.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.AssemblyInfoInputs.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.AssemblyInfo.cs
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.csproj.CopyComplete
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\refint\Banco_BibliotecaDDL.dll
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.pdb
+C:\Users\Cristhian\Desktop\Cristhian\UTN\ProyectoBanco\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\ref\Banco_BibliotecaDDL.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\SqlServerTypes\x64\msvcr120.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\SqlServerTypes\x86\msvcr120.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_BibliotecaDDL.deps.json
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_BibliotecaDDL.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_BibliotecaDDL.pdb
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_Reportes.exe
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Microsoft.ReportViewer.WinForms.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Microsoft.ReportViewer.Common.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_Reportes.pdb
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Banco_Reportes.exe.config
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Newtonsoft.Json.pdb
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\Newtonsoft.Json.xml
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.csproj.AssemblyReference.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.Properties.Resources.resources
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.AssemblyInfoInputs.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.AssemblyInfo.cs
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.csproj.CopyComplete
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\refint\Banco_BibliotecaDDL.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\Banco_BibliotecaDDL.pdb
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\Banco_BibliotecaDDL\obj\Debug\net6.0\ref\Banco_BibliotecaDDL.dll

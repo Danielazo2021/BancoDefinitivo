@@ -151,11 +151,27 @@ namespace bacnoApp_winForm
         {
             btnCambiarPass.Enabled = false;
             btnEliminarUsuario.Enabled = false;
+            txtPass.PasswordChar = '*'; 
         }
         private void limpiarCampos()
         {
             txtDni.Text = "";
             txtPass.Text = "";
+        }
+
+        private void btnMostrarPass_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            txtPass.PasswordChar = '\0';
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            txtPass.PasswordChar = '*';
         }
     }
 }

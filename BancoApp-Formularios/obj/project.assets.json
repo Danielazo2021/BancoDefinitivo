@@ -3340,19 +3340,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\myant\\.nuget\\packages\\": {}
+    "C:\\Users\\54351\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\myant\\Documents\\UTN\\Git\\BancoDefinitivo\\BancoApp-Formularios\\BancoApp-Formularios.csproj",
+      "projectUniqueName": "C:\\Users\\54351\\Desktop\\Reportes banco\\9-11\\BancoDefinitivo\\BancoApp-Formularios\\BancoApp-Formularios.csproj",
       "projectName": "BancoApp-Formularios",
-      "projectPath": "C:\\Users\\myant\\Documents\\UTN\\Git\\BancoDefinitivo\\BancoApp-Formularios\\BancoApp-Formularios.csproj",
-      "packagesPath": "C:\\Users\\myant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\myant\\Documents\\UTN\\Git\\BancoDefinitivo\\BancoApp-Formularios\\obj\\",
+      "projectPath": "C:\\Users\\54351\\Desktop\\Reportes banco\\9-11\\BancoDefinitivo\\BancoApp-Formularios\\BancoApp-Formularios.csproj",
+      "packagesPath": "C:\\Users\\54351\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\54351\\Desktop\\Reportes banco\\9-11\\BancoDefinitivo\\BancoApp-Formularios\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\myant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\54351\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3360,17 +3365,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\myant\\Documents\\UTN\\Git\\BancoDefinitivo\\Banco_BibliotecaDDL\\Banco_BibliotecaDDL.csproj": {
-              "projectPath": "C:\\Users\\myant\\Documents\\UTN\\Git\\BancoDefinitivo\\Banco_BibliotecaDDL\\Banco_BibliotecaDDL.csproj"
+            "C:\\Users\\54351\\Desktop\\Reportes banco\\9-11\\BancoDefinitivo\\Banco_BibliotecaDDL\\Banco_BibliotecaDDL.csproj": {
+              "projectPath": "C:\\Users\\54351\\Desktop\\Reportes banco\\9-11\\BancoDefinitivo\\Banco_BibliotecaDDL\\Banco_BibliotecaDDL.csproj"
             },
-            "C:\\Users\\myant\\Documents\\UTN\\Git\\BancoDefinitivo\\Banco_Reportes\\Banco_Reportes.csproj": {
-              "projectPath": "C:\\Users\\myant\\Documents\\UTN\\Git\\BancoDefinitivo\\Banco_Reportes\\Banco_Reportes.csproj"
+            "C:\\Users\\54351\\Desktop\\Reportes banco\\9-11\\BancoDefinitivo\\Banco_Reportes\\Banco_Reportes.csproj": {
+              "projectPath": "C:\\Users\\54351\\Desktop\\Reportes banco\\9-11\\BancoDefinitivo\\Banco_Reportes\\Banco_Reportes.csproj"
             }
           }
         }

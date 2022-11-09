@@ -16,5 +16,10 @@ namespace BancoApp_Formularios.Presentacion
         {
             InitializeComponent();
         }
+
+        private void btnVolverMenuAnterior_Click(object sender, EventArgs e)
+        {
+            this.Dispose();
+        }
     }
 }

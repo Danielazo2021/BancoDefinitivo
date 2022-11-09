@@ -13,7 +13,43 @@ namespace APIBancoPrueba.Controllers
         public ReportesController()
         {
             factory = new ServicioReportes();
+
+            
         }
+        [HttpGet("{desde}/{hasta}")]
+        public IActionResult GetReporteSaldo(DateTime desde, DateTime hasta)
+        {
+            DataTable reporte_cuentasbaja = null;
+
+            List<ReporteCuentasBaja> lista = new List<ReporteCuentasBaja>();
+
+            try
+            {
+                reporte_cuentasbaja = factory.ReporteCuentasBaja(desde,hasta);
+                int contador = 0;
+                foreach (DataRow item in reporte_cuentasbaja.Rows)
+                {
+                    ReporteCuentasBaja rcd = new();
+
+                    rcd.Anio = Convert.ToInt32(item["ANIO"]);
+                    rcd.Mes = (item["MES"]).ToString();
+                    rcd.NombreCliente = (item["nom_cliente"]).ToString();
+                    rcd.ApellidoCliente = (item["ape_cliente"]).ToString();
+                    rcd.Dni = Convert.ToInt32(item["dni"]);
+
+                    lista.Add(rcd);
+                    contador++;
+                }
+
+                return Ok(lista);
+
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        } // esta ok
+
         [HttpGet("{dolar}")]
         public IActionResult GetReporteSaldo(int dolar) 
         {

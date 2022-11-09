@@ -835,5 +835,35 @@ namespace Banco_BibliotecaDDL.DataAccess
             }
             return tabla;
         }
+        public DataTable ReporteCuentasBaja(string sp, DateTime desde, DateTime hasta)
+        {
+            DataTable tabla = new DataTable();
+           // string d = desde.ToString("dd-MM-yyyy");// pasar fecha al reves
+            //string h = hasta.ToString("dd-MM-yyyy");//
+            string d = desde.ToString("yyyy-MM-dd");// pasar fecha al reves
+            string h = hasta.ToString("yyyy-MM-dd");//
+
+
+            try
+            {
+                cnn.Open();
+                SqlCommand cmd = new SqlCommand(sp, cnn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@Fecha_Desde", d);
+                cmd.Parameters.AddWithValue("@Fecha_Hasta", h);
+
+
+                tabla.Load(cmd.ExecuteReader());
+            }
+            catch (Exception ex)
+            {
+            }
+            finally
+            {
+                if (cnn != null && cnn.State == ConnectionState.Open)
+                    cnn.Close();
+            }
+            return tabla;
+        }
     }
 }

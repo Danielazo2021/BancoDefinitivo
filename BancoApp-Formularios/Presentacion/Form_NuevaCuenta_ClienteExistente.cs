@@ -32,7 +32,7 @@ namespace BancoApp_Formularios.Presentacion
             txtNombre.Text = miCliente1.nombre;
         }
 
-        private async Task Form_NuevaCuenta_ClienteExistente_Load(object sender, EventArgs e)
+        private async void Form_NuevaCuenta_ClienteExistente_Load(object sender, EventArgs e)
         {
             txtApellido.Enabled = false;
             txtNombre.Enabled = false;
@@ -41,6 +41,8 @@ namespace BancoApp_Formularios.Presentacion
             await ObtenerProximoCBUAsync();
 
         }
+
+
 
 
         private async Task CargarCombo()
@@ -65,14 +67,17 @@ namespace BancoApp_Formularios.Presentacion
             if (txtSaldo.Text == "")
             {
                 MessageBox.Show("Cargar un Saldo", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+                return;
             }
             if (txtUltimoMov.Text == "")
             {
                 MessageBox.Show("Cargue el ultimo movimiento", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+                return;
             }
             if (txtcbu.Text == "")
             {
                 MessageBox.Show("Cargar el cbu", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+                return;
             }
             foreach (DataGridViewRow item in dgvClientes.Rows)
             {
@@ -124,6 +129,7 @@ namespace BancoApp_Formularios.Presentacion
             }
 
             await grabarDetalleAsync();
+            await ObtenerProximoCBUAsync();
             this.Dispose();
 
         }
@@ -179,9 +185,9 @@ namespace BancoApp_Formularios.Presentacion
             txtcbu.Enabled = false;
         }
 
-       /* private void Form_NuevaCuenta_ClienteExistente_Load(object sender, EventArgs e)
+        private void btnCerrar_Click(object sender, EventArgs e)
         {
-
-        }*/
+            this.Dispose();
+        }
     }
 }

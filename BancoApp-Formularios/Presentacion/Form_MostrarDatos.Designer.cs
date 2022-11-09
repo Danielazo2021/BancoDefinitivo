@@ -41,6 +41,7 @@
             this.btnTransferencia = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnVolverMenuAnterior = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvMostrarCliente)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -68,7 +69,7 @@
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dgvMostrarCliente.DefaultCellStyle = dataGridViewCellStyle2;
-            this.dgvMostrarCliente.Location = new System.Drawing.Point(44, 149);
+            this.dgvMostrarCliente.Location = new System.Drawing.Point(13, 149);
             this.dgvMostrarCliente.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.dgvMostrarCliente.Name = "dgvMostrarCliente";
             this.dgvMostrarCliente.ReadOnly = true;
@@ -80,7 +81,7 @@
             dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvMostrarCliente.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
-            this.dgvMostrarCliente.Size = new System.Drawing.Size(610, 173);
+            this.dgvMostrarCliente.Size = new System.Drawing.Size(734, 173);
             this.dgvMostrarCliente.TabIndex = 2;
             // 
             // btnNuevaCuenta
@@ -176,12 +177,23 @@
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
             // 
+            // btnVolverMenuAnterior
+            // 
+            this.btnVolverMenuAnterior.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnVolverMenuAnterior.BackgroundImage")));
+            this.btnVolverMenuAnterior.Location = new System.Drawing.Point(22, 8);
+            this.btnVolverMenuAnterior.Name = "btnVolverMenuAnterior";
+            this.btnVolverMenuAnterior.Size = new System.Drawing.Size(50, 50);
+            this.btnVolverMenuAnterior.TabIndex = 9;
+            this.btnVolverMenuAnterior.UseVisualStyleBackColor = true;
+            this.btnVolverMenuAnterior.Click += new System.EventHandler(this.btnVolverMenuAnterior_Click);
+            // 
             // Form_MostrarDatos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(183)))), ((int)(((byte)(190)))));
             this.ClientSize = new System.Drawing.Size(1350, 729);
+            this.Controls.Add(this.btnVolverMenuAnterior);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnTransferencia);
@@ -196,6 +208,7 @@
             this.Name = "Form_MostrarDatos";
             this.Text = "Consultar cliente";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.Form_MostrarDatos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvMostrarCliente)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -214,5 +227,6 @@
         private Button btnTransferencia;
         private Label label1;
         private PictureBox pictureBox1;
+        private Button btnVolverMenuAnterior;
     }
 }

@@ -20,6 +20,11 @@ namespace Banco_BibliotecaDDL.Servicios
             return dao.ReporteCuentas();
         }
 
+        public DataTable ReporteCuentasBaja(DateTime desde, DateTime hasta)
+        {
+            return dao.ReporteCuentasBaja(desde,hasta);
+        }
+
         public DataTable ReporteSaldos(int valor_dolar)
         {
             return dao.ReporteSaldos(valor_dolar);

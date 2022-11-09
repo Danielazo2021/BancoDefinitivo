@@ -81,6 +81,7 @@
       <DependentUpon>BancoDBDataSet10.xsd</DependentUpon>
     </Compile>
     <Compile Include="ENTIDADES\ReporteCuentas.cs" />
+    <Compile Include="ENTIDADES\ReporteCuentasBaja.cs" />
     <Compile Include="ENTIDADES\ReporteSaldos.cs" />
     <Compile Include="FORMULARIOS\FormReporteCuentas.cs">
       <SubType>Form</SubType>
@@ -88,13 +89,23 @@
     <Compile Include="FORMULARIOS\FormReporteCuentas.Designer.cs">
       <DependentUpon>FormReporteCuentas.cs</DependentUpon>
     </Compile>
+    <Compile Include="FORMULARIOS\FormReporteCuentasBaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FormReporteCuentasBaja.Designer.cs">
+      <DependentUpon>FormReporteCuentasBaja.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
     <EmbeddedResource Include="FORMULARIOS\FormReporteCuentas.resx">
       <DependentUpon>FormReporteCuentas.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FormReporteCuentasBaja.resx">
+      <DependentUpon>FormReporteCuentasBaja.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FORMULARIOS\Report1.rdlc" />
+    <EmbeddedResource Include="FORMULARIOS\Report2.rdlc" />
     <EmbeddedResource Include="FORMULARIOS\ReporteCuentas.rdlc" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -120,6 +131,7 @@
     <None Include="Properties\DataSources\Banco_Reportes.ENTIDADES.ReporteCantidadCuentas.datasource" />
     <None Include="Properties\DataSources\Banco_Reportes.ENTIDADES.ReporteClientes.datasource" />
     <None Include="Properties\DataSources\Banco_Reportes.ENTIDADES.ReporteCuentas.datasource" />
+    <None Include="Properties\DataSources\Banco_Reportes.ENTIDADES.ReporteCuentasBaja.datasource" />
     <None Include="Properties\DataSources\Banco_Reportes.ENTIDADES.ReporteSaldos.datasource" />
     <None Include="Properties\DataSources\Banco_Reportes.FORMULARIOS.FormReporteCuentas.datasource" />
     <None Include="Properties\DataSources\Banco_Reportes.Properties.Resources.datasource" />
