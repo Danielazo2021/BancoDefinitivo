@@ -78,7 +78,7 @@ namespace BancoApp_Formularios.Presentacion
 
         private void equipoDeTrabajoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            // aca levanta elformularionuevo creado por Mariela
+            new Form_EquipoDeTrabajo().ShowDialog(); // aca levanta elformularionuevo creado por Mariela
         }
 
         private void listadoToolStripMenuItem_Click(object sender, EventArgs e)

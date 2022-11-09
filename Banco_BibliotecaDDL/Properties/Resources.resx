@@ -118,6 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cnnCRUDbanco" xml:space="preserve">
-    <value>Data Source=localhost\SQLEXPRESS;Initial Catalog=BancoDB;Integrated Security=True;TrustServerCertificate=True;</value>
+    <value>Data Source=DESKTOP-OQ281N4\MRIVAS;Initial Catalog=BancoDB;Integrated Security=True;TrustServerCertificate=True;</value>
   </data>
 </root>
