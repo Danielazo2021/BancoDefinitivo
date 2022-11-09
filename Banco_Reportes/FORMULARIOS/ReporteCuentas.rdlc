@@ -918,7 +918,7 @@
             </ChartLegends>
             <ChartTitles>
               <ChartTitle Name="Default">
-                <Caption>CANTIDAD DE TIPOS DE CUENTA</Caption>
+                <Caption>CANTIDAD POR TIPOS DE CUENTA</Caption>
                 <Style>
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontWeight>Bold</FontWeight>

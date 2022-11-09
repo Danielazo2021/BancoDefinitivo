@@ -79,7 +79,12 @@ namespace BancoApp_Formularios.Presentacion
                 MessageBox.Show("Cargar el cbu", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
                 return;
             }
-            foreach (DataGridViewRow item in dgvClientes.Rows)
+            if(dgvClientes.Rows.Count>0)
+            {
+                MessageBox.Show("Solo puede agregar de a una las cuentas extra a clientes ya registrados","ATENCION!!", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+                return;
+            }
+            /*foreach (DataGridViewRow item in dgvClientes.Rows)
             {
                 if (item.Cells["colTipo"].Value.ToString().Equals(cboTipoCuenta.Text)) //solo 1 cuenta por tipo de cuenta
                 {
@@ -87,7 +92,7 @@ namespace BancoApp_Formularios.Presentacion
                     return;
                 }
 
-            }
+            }*/
 
             TipoCuenta tp = new TipoCuenta();
             tp.nom_tipo_cta = cboTipoCuenta.Text;

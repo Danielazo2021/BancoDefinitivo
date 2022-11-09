@@ -31,14 +31,20 @@ namespace CRUDbanco
 
         private async void AltaCliente_Load(object sender, EventArgs e)
         {
+           await Iniciar();
+           
+        }
 
+        private async Task Iniciar()
+        {
             await ObtenerProximoAsync();
-           await CargarCombo();
-           await CargarComboEstados();
+            await CargarCombo();
+            await CargarComboEstados();
             await ObtenerProximoCBUAsync();
 
-            miCliente = new Cliente();
+             miCliente = new Cliente();
         }
+
 
         private async Task ObtenerProximoCBUAsync()
         {
@@ -160,6 +166,7 @@ namespace CRUDbanco
             {
                 MessageBox.Show("Error!!, NO inserto con exito", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
             }
+            await Iniciar();
 
         }
 

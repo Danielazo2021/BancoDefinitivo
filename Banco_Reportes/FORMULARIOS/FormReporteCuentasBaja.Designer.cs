@@ -76,14 +76,14 @@
             this.reportViewer1.Location = new System.Drawing.Point(128, 0);
             this.reportViewer1.Name = "reportViewer1";
             this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(1033, 462);
+            this.reportViewer1.Size = new System.Drawing.Size(1033, 635);
             this.reportViewer1.TabIndex = 3;
             // 
             // FormReporteCuentasBaja
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1161, 462);
+            this.ClientSize = new System.Drawing.Size(1161, 635);
             this.Controls.Add(this.reportViewer1);
             this.Controls.Add(this.btnFiltrar);
             this.Controls.Add(this.dtpHasta);

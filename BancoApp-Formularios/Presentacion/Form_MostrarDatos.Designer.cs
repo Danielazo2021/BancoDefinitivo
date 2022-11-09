@@ -81,7 +81,7 @@
             dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvMostrarCliente.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
-            this.dgvMostrarCliente.Size = new System.Drawing.Size(734, 173);
+            this.dgvMostrarCliente.Size = new System.Drawing.Size(1324, 173);
             this.dgvMostrarCliente.TabIndex = 2;
             // 
             // btnNuevaCuenta
@@ -170,9 +170,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(754, -1);
+            this.pictureBox1.Location = new System.Drawing.Point(754, 330);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(595, 730);
+            this.pictureBox1.Size = new System.Drawing.Size(595, 399);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;

@@ -53,19 +53,19 @@
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>2.60583cm</Width>
+                  <Width>2.28833cm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.60583cm</Width>
+                  <Width>3.77529cm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>3.42604cm</Width>
+                  <Width>4.7225cm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>3.69063cm</Width>
+                  <Width>4.77542cm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.60583cm</Width>
+                  <Width>2.71166cm</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
@@ -439,7 +439,7 @@
             <Top>0.43215cm</Top>
             <Left>0.94846cm</Left>
             <Height>1.2cm</Height>
-            <Width>14.93416cm</Width>
+            <Width>18.2732cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -450,7 +450,14 @@
             <ChartCategoryHierarchy>
               <ChartMembers>
                 <ChartMember>
-                  <Group Name="Chart1_CategoryGroup">
+                  <Label />
+                </ChartMember>
+              </ChartMembers>
+            </ChartCategoryHierarchy>
+            <ChartSeriesHierarchy>
+              <ChartMembers>
+                <ChartMember>
+                  <Group Name="Chart1_SeriesGroup">
                     <GroupExpressions>
                       <GroupExpression>=Fields!Mes.Value</GroupExpression>
                     </GroupExpressions>
@@ -461,13 +468,6 @@
                     </SortExpression>
                   </SortExpressions>
                   <Label>=Fields!Mes.Value</Label>
-                </ChartMember>
-              </ChartMembers>
-            </ChartCategoryHierarchy>
-            <ChartSeriesHierarchy>
-              <ChartMembers>
-                <ChartMember>
-                  <Label>Mes</Label>
                 </ChartMember>
               </ChartMembers>
             </ChartSeriesHierarchy>
@@ -523,14 +523,15 @@
                       <Color>#5c5c5c</Color>
                     </Style>
                     <ChartAxisTitle>
-                      <Caption />
+                      <Caption>Meses</Caption>
                       <Style>
                         <FontSize>9pt</FontSize>
                         <Color>#5c5c5c</Color>
                       </Style>
                     </ChartAxisTitle>
+                    <Margin>True</Margin>
                     <ChartMajorGridLines>
-                      <Enabled>False</Enabled>
+                      <Enabled>True</Enabled>
                       <Style>
                         <Border>
                           <Color>Gainsboro</Color>
@@ -538,6 +539,7 @@
                       </Style>
                     </ChartMajorGridLines>
                     <ChartMinorGridLines>
+                      <Enabled>True</Enabled>
                       <Style>
                         <Border>
                           <Color>Gainsboro</Color>
@@ -562,6 +564,8 @@
                       <Length>0.5</Length>
                     </ChartMinorTickMarks>
                     <CrossAt>NaN</CrossAt>
+                    <Interlaced>true</Interlaced>
+                    <Scalar>true</Scalar>
                     <Minimum>NaN</Minimum>
                     <Maximum>NaN</Maximum>
                     <ChartAxisScaleBreak>
@@ -745,6 +749,26 @@
                 </Style>
               </ChartArea>
             </ChartAreas>
+            <ChartLegends>
+              <ChartLegend Name="Legend1">
+                <Style>
+                  <BackgroundGradientType>None</BackgroundGradientType>
+                  <FontSize>8pt</FontSize>
+                </Style>
+                <Position>TopRight</Position>
+                <DockOutsideChartArea>true</DockOutsideChartArea>
+                <ChartLegendTitle>
+                  <Caption>Título de la leyenda</Caption>
+                  <Style>
+                    <FontSize>8pt</FontSize>
+                    <FontWeight>Bold</FontWeight>
+                    <TextAlign>Center</TextAlign>
+                  </Style>
+                </ChartLegendTitle>
+                <HeaderSeparatorColor>Black</HeaderSeparatorColor>
+                <ColumnSeparatorColor>Black</ColumnSeparatorColor>
+              </ChartLegend>
+            </ChartLegends>
             <ChartTitles>
               <ChartTitle Name="Default">
                 <Caption>CANTIDAD DE BAJAS POR MES</Caption>
@@ -779,12 +803,13 @@
             <Top>2.40453cm</Top>
             <Left>0.94845cm</Left>
             <Height>7.88396cm</Height>
-            <Width>14.93417cm</Width>
+            <Width>26.41709cm</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
-                <Color>LightGrey</Color>
+                <Color>Gray</Color>
                 <Style>Solid</Style>
+                <Width>1.25pt</Width>
               </Border>
               <BackgroundColor>White</BackgroundColor>
               <BackgroundGradientType>None</BackgroundGradientType>
@@ -1120,9 +1145,9 @@
             </ChartNoDataMessage>
             <DataSetName>DataSetCuentasBaja</DataSetName>
             <Top>10.92412cm</Top>
-            <Left>0.94846cm</Left>
+            <Left>0.94845cm</Left>
             <Height>8.05533cm</Height>
-            <Width>14.93417cm</Width>
+            <Width>26.41709cm</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
@@ -1137,7 +1162,7 @@
         <Height>7.54167in</Height>
         <Style />
       </Body>
-      <Width>6.5in</Width>
+      <Width>11.125in</Width>
       <Page>
         <PageHeader>
           <Height>3.91583cm</Height>

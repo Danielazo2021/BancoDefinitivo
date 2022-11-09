@@ -188,7 +188,7 @@
             this.dgvCuentas.Name = "dgvCuentas";
             this.dgvCuentas.ReadOnly = true;
             this.dgvCuentas.RowTemplate.Height = 25;
-            this.dgvCuentas.Size = new System.Drawing.Size(751, 133);
+            this.dgvCuentas.Size = new System.Drawing.Size(1311, 133);
             this.dgvCuentas.TabIndex = 5;
             this.dgvCuentas.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCuentas_CellContentClick);
             // 
@@ -197,7 +197,7 @@
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(832, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(519, 727);
+            this.pictureBox1.Size = new System.Drawing.Size(519, 392);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
