@@ -1,0 +1,2 @@
+validar transferencia no importes negativos,
+mofificar el form de soporte, para que hagan un abm completa de estado y de lo otro
