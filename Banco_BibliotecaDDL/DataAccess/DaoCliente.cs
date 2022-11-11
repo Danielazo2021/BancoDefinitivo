@@ -178,5 +178,20 @@ namespace Banco_BibliotecaDDL.DataAccess
             string sp_nombre = "pa_Proximo_CBU";
             return HelperDao.ObtenerInstancia().ObtenerProximo(sp_nombre);
         }
+
+        public bool GrabarNuevoEstadoCivil(string nuevoEstado)
+        {
+            string sp_nombre = "pa_altaNuevoEstadoCivil";
+            return HelperDao.ObtenerInstancia().GrabarNuevoEstadoCivil(sp_nombre, nuevoEstado);
+        }
+        
+        public bool ModificarNuevoEstadoCivil(string nuevoEstado, string viejoEstado)
+        {
+            string sp_nombre = "pa_ModificacionNuevoEstadoCivil";
+            return HelperDao.ObtenerInstancia().ModificarNuevoEstadoCivil(sp_nombre, nuevoEstado, viejoEstado);
+        }
+
+
     }
+    
 }

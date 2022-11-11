@@ -16,17 +16,23 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
     public partial class Form_EstadoCivil : Form
     {
         private IServicio factory;
+        private bool nuevo;
 
         public Form_EstadoCivil()
         {
             factory = new Servicio();
             InitializeComponent();
+        
         }
 
         private async void Form_EstadoCivil_Load(object sender, EventArgs e)
         {
             await cargarComboEstado();
+
+            gbNuevoEstado.Enabled = false;
+            btnAgregarNuevoEstado.Enabled = true;
         }
+
 
         private async Task cargarComboEstado()
         {
@@ -41,6 +47,12 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
                 cboEstadoCivil.DataSource = lst;
                 cboEstadoCivil.ValueMember = "id_estado";
                 cboEstadoCivil.DisplayMember = "nom_estado";
+
+
+                cboEstadoExistente.DataSource = lst;
+                cboEstadoExistente.ValueMember = "id_estado";
+                cboEstadoExistente.DisplayMember = "nom_estado";
+
             }
         }
 
@@ -92,8 +104,7 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
             {
                 MessageBox.Show("ERROR!!, NO se actualizo el Estado Civil");
             }
-            // tirar el sp para modificar en la tabla Clientes el estadocivil
-            // en base al cbo selecionado
+          
 
 
 
@@ -117,5 +128,65 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
             this.Close();
 
         }
+
+        private void btnAgregarNuevoEstado_Click(object sender, EventArgs e)
+        {
+            gbNuevoEstado.Enabled = true;
+            gbEstadoExistente.Enabled = false;
+            
+            
+
+        }
+
+        private void verificarnuevoestado(bool nuevo)
+        {
+          
+            if (txtNuevoEstado.Text == "")
+            {
+                MessageBox.Show("Debe ingresar un Nuevo estado que no figure en La lista del combo");
+                return;
+            }
+            string nuevoEstado = txtNuevoEstado.Text;
+            string viejoEstado = cboEstadoExistente.Text;
+            if (nuevo)
+            {
+                factory.GrabarNuevoEstadoCivil(nuevoEstado);
+            }  
+             else{
+                factory.ModificarNuevoEstadoCivil(nuevoEstado, viejoEstado);
+            }
+            //
+            //grabar en la base de datos
+            //actualizar el cbo
+
+        }
+
+
+        private async void btnGrabarNuevoEstado_Click(object sender, EventArgs e)
+        {
+            nuevo = true;
+            verificarnuevoestado(nuevo);
+
+            gbEstadoExistente.Enabled = true;
+            gbNuevoEstado.Enabled = false;
+
+
+            await cargarComboEstado();
+        }
+
+        private async void btnModificarEstadoExistente_Click(object sender, EventArgs e)
+        {
+            nuevo = false;
+
+
+            verificarnuevoestado(nuevo);
+
+            gbEstadoExistente.Enabled = true;
+            gbNuevoEstado.Enabled = false;
+
+            await cargarComboEstado();
+        }
+
+    
     }
 }

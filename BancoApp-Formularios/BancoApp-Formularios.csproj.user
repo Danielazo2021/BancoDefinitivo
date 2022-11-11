@@ -4,7 +4,7 @@
     <Compile Update="Presentacion\Form_EquipoDeTrabajo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Presentacion\Formularios_Auxiliares\Form_DatosDeContacto.cs">
+    <Compile Update="Presentacion\Formularios_Auxiliares\Form_MailDeContacto.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Presentacion\Formularios_Auxiliares\Form_EstadoCivil.cs">

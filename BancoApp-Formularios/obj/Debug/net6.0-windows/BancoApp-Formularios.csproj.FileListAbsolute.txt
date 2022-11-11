@@ -612,7 +612,6 @@ C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\
 C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_Reportes.pdb
 C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\bin\Debug\net6.0-windows\Banco_Reportes.exe.config
 C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.csproj.AssemblyReference.cache
-C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Formularios_Auxiliares.Form_DatosDeContacto.resources
 C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Formularios_Auxiliares.Form_EstadoCivil.resources
 C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\obj\Debug\net6.0-windows\CRUDbanco.Form_AltaCliente.resources
 C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Form_EquipoDeTrabajo.resources
@@ -636,3 +635,4 @@ C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\
 C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.pdb
 C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp-Formularios.genruntimeconfig.cache
 C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\obj\Debug\net6.0-windows\ref\BancoApp-Formularios.dll
+C:\Users\54351\Desktop\Reportes banco\9-11\BancoDefinitivo\BancoApp-Formularios\obj\Debug\net6.0-windows\BancoApp_Formularios.Presentacion.Formularios_Auxiliares.Form_MailDeContacto.resources

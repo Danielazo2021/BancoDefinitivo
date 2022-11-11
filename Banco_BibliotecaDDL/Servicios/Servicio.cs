@@ -146,5 +146,16 @@ namespace Banco_BibliotecaDDL.Servicios
         {
             return dao.ObtenerProximoCBU();
         }
+
+        public bool GrabarNuevoEstadoCivil(string nuevoEstado)
+        {
+            return dao.GrabarNuevoEstadoCivil( nuevoEstado);
+        }
+        
+        public bool ModificarNuevoEstadoCivil(string nuevoEstado, string viejoEstado)
+        {
+            return dao.ModificarNuevoEstadoCivil(nuevoEstado, viejoEstado);
+        }
+
     }
 }

@@ -27,31 +27,36 @@ namespace BancoApp_Formularios.Presentacion
             factory = new Servicio();
         }
 
-        private  void btnBuscarCuentas_Click(object sender, EventArgs e)
+        private void btnBuscarCuentas_Click(object sender, EventArgs e)
         {
             if (txtDNI.Text == "")
             {
                 MessageBox.Show("Debe ingresar el dni");
                 return;
             }
-
+            string[] limpiar = new string[10]; 
+            dgvCuentas.DataSource = limpiar;
+            dgvCuentas.Columns.Clear();
+          //  dgvCuentas.Rows.Clear();
             
-             actualizarDGV(); 
+            
+
+            actualizarDGV();
             ActualizarCboOrigenyDestino();
         }
 
-        private  void actualizarDGV() // hacer un sp que tire las cuentas por dni que ya lo tenemos creo
+        private void actualizarDGV() // hacer un sp que tire las cuentas por dni que ya lo tenemos creo
         {
             dni = Convert.ToInt32(txtDNI.Text);
-            dgvCuentas.DataSource = "";
+            dgvCuentas.DataSource = null;
 
-            dgvCuentas.DataSource =  factory.ConsultarCuentasPorDNI(dni);
-            dgvCuentas.AutoSize = true;
-            dgvCuentas.AutoResizeColumn(4);
-
+            dgvCuentas.DataSource = factory.ConsultarCuentasPorDNI(dni);
+            //  dgvCuentas.AutoSize = true;
+            // dgvCuentas.AutoResizeColumn(4);
+            dgvCuentas.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
         }
 
-        
+
 
 
         private void Form_Movimiento_de_saldos_Load(object sender, EventArgs e)
@@ -118,12 +123,78 @@ namespace BancoApp_Formularios.Presentacion
                 MessageBox.Show("Debe ingresar el monto a transferir");
                 return;
             }
+            bool OrigenUsd = false;
+            bool DestinoUSD = false;
+            foreach (DataGridViewRow item in dgvCuentas.Rows)
+            {
+                if (item.Cells["CBU"].Value.ToString().Equals(cboCuentaOrigen.Text))
+                {
+                    if (item.Cells["Tipo de cuenta"].Value.ToString().Equals("Caja de Ahorro en USD"))
+                    {
+                        OrigenUsd = true;
 
-            await RealizarTransferencia();
+                    }
+                }
+
+                if (item.Cells["CBU"].Value.ToString().Equals(CboCuentaDestino.Text))
+                {
+                    if (item.Cells["Tipo de cuenta"].Value.ToString().Equals("Caja de Ahorro en USD"))
+                    {
+                        DestinoUSD = true;
+
+                    }
+                }
+
+            }
+                if (OrigenUsd != DestinoUSD)
+                {
+                    MessageBox.Show("No puede transfrerir de cuentas que manejan moneda diferente, si la cuenta origen es en pesos debe transferir a una cuenta en pesos, y si es en Dolares el origen debe transferir a una cueta en Dolares","ATENCION!!!");
+                return;
+                }
+            
+            
+           
+
+
+            double importe = Convert.ToDouble(txtImporteaTransferir.Text);
+            if (verificarSaldo(importe))
+                {
+                await RealizarTransferencia();
+
+                }
+            else
+            {
+                MessageBox.Show("No dispone del saldo suficiente para realizar esta transferencia","ATENCION!!!");
+                return;
+            }
+          
 
 
         }
 
+
+        private bool verificarSaldo(double importe)
+        {
+            bool ok = false;
+            double montoATransferir = importe;
+            double saldoCuentaOrigen=0;
+
+
+
+            foreach(DataGridViewRow item in dgvCuentas.Rows)
+            {
+                if (item.Cells["CBU"].Value.ToString().Equals(cboCuentaOrigen.Text)) 
+                {
+                    saldoCuentaOrigen = Convert.ToDouble(item.Cells["Saldo"].Value.ToString());
+                }                             
+            }
+            if ( montoATransferir <= saldoCuentaOrigen)
+            {
+                ok = true;
+            }
+
+            return ok;
+        }
         private async Task RealizarTransferencia()
         {
 

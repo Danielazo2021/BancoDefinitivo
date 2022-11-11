@@ -68,7 +68,7 @@ namespace BancoApp_Formularios.Presentacion
         
         private void datosDeContactoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            new Form_DatosDeContacto().ShowDialog();
+            new Form_MailDeContacto().ShowDialog();
         }
 
         private void tablaDeEstadoCivilToolStripMenuItem_Click(object sender, EventArgs e)

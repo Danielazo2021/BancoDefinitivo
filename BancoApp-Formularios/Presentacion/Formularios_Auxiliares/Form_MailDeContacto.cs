@@ -11,10 +11,10 @@ using System.Windows.Forms;
 
 namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
 {
-    public partial class Form_DatosDeContacto : Form
+    public partial class Form_MailDeContacto : Form
     {
         private IServicio factory;
-        public Form_DatosDeContacto()
+        public Form_MailDeContacto()
         {
             factory = new Servicio();
             InitializeComponent();

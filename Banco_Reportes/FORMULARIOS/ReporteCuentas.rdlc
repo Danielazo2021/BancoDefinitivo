@@ -634,7 +634,16 @@
                         <Y>=Count(Fields!NombreCuenta.Value)</Y>
                       </ChartDataPointValues>
                       <ChartDataLabel>
-                        <Style />
+                        <Style>
+                          <Border>
+                            <Width>1.5pt</Width>
+                          </Border>
+                          <FontFamily>Arial Rounded MT Bold</FontFamily>
+                          <FontSize>18pt</FontSize>
+                          <FontWeight>Bold</FontWeight>
+                          <Format>0;(0)</Format>
+                          <Color>White</Color>
+                        </Style>
                         <UseValueAsLabel>true</UseValueAsLabel>
                         <Visible>true</Visible>
                       </ChartDataLabel>
@@ -903,6 +912,8 @@
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontSize>9pt</FontSize>
                 </Style>
+                <Position>TopCenter</Position>
+                <DockOutsideChartArea>true</DockOutsideChartArea>
                 <ChartLegendTitle>
                   <Caption />
                   <Style>
@@ -918,7 +929,7 @@
             </ChartLegends>
             <ChartTitles>
               <ChartTitle Name="Default">
-                <Caption>CANTIDAD POR TIPOS DE CUENTA</Caption>
+                <Caption>CANTIDAD  DE CUENTAS DADAS DE BAJA POR TIPOS DE CUENTA, EXPRESADO EN UNIDADES</Caption>
                 <Style>
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontWeight>Bold</FontWeight>
@@ -1277,7 +1288,7 @@
             </ChartLegends>
             <ChartTitles>
               <ChartTitle Name="Default">
-                <Caption>Título del gráfico</Caption>
+                <Caption>VALOR ACUMULADO EXPRESADO EN PESOS SEGUN EL TIPO DE CUENTA</Caption>
                 <Style>
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontSize>9pt</FontSize>
@@ -1307,7 +1318,7 @@
               </Style>
             </ChartNoDataMessage>
             <DataSetName>DataSet2</DataSetName>
-            <Top>10.703cm</Top>
+            <Top>10.56189cm</Top>
             <Left>0.31347cm</Left>
             <Height>7.72521cm</Height>
             <Width>15.87312cm</Width>

@@ -523,7 +523,7 @@
                       <Color>#5c5c5c</Color>
                     </Style>
                     <ChartAxisTitle>
-                      <Caption>Meses</Caption>
+                      <Caption>Meses en los que se registraron cuentas dadas de baja</Caption>
                       <Style>
                         <FontSize>9pt</FontSize>
                         <Color>#5c5c5c</Color>
@@ -641,7 +641,7 @@
                       <Color>#5c5c5c</Color>
                     </Style>
                     <ChartAxisTitle>
-                      <Caption />
+                      <Caption>Cantidad de bajas, expresado en unidades</Caption>
                       <Style>
                         <FontSize>9pt</FontSize>
                         <Color>#5c5c5c</Color>
@@ -758,7 +758,7 @@
                 <Position>TopRight</Position>
                 <DockOutsideChartArea>true</DockOutsideChartArea>
                 <ChartLegendTitle>
-                  <Caption>Título de la leyenda</Caption>
+                  <Caption>Meses en los que se dieron de baja cuentas</Caption>
                   <Style>
                     <FontSize>8pt</FontSize>
                     <FontWeight>Bold</FontWeight>
@@ -771,7 +771,7 @@
             </ChartLegends>
             <ChartTitles>
               <ChartTitle Name="Default">
-                <Caption>CANTIDAD DE BAJAS POR MES</Caption>
+                <Caption>CANTIDAD DE CUENTAS DADAS DE BAJAS POR MES, EXPRESADO EN UNIDADES</Caption>
                 <Style>
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontSize>11pt</FontSize>
@@ -892,7 +892,7 @@
                       <Color>#5c5c5c</Color>
                     </Style>
                     <ChartAxisTitle>
-                      <Caption />
+                      <Caption>Detalle de los años seleccionados en el periodo filtrado que registran cuentas dadas de baja</Caption>
                       <Style>
                         <FontSize>9pt</FontSize>
                         <Color>#5c5c5c</Color>
@@ -1006,7 +1006,7 @@
                       <Color>#5c5c5c</Color>
                     </Style>
                     <ChartAxisTitle>
-                      <Caption />
+                      <Caption>Cantidad de bajas, expresado en unidades</Caption>
                       <Style>
                         <FontSize>9pt</FontSize>
                         <Color>#5c5c5c</Color>
@@ -1115,7 +1115,7 @@
             </ChartAreas>
             <ChartTitles>
               <ChartTitle Name="Default">
-                <Caption>CANTIDAD DE BAJAS POR AÑO</Caption>
+                <Caption>ACUMULADO DE CUENTAS DADAS DE BAJA POR AÑO, EXPRESADO EN UNIDADES</Caption>
                 <Style>
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontSize>11pt</FontSize>
