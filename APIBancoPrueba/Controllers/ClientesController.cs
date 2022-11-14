@@ -92,7 +92,7 @@ namespace APIBancoPrueba.Controllers
             }
         }
 
-        [HttpGet("/ProximoID")] // este se rompe
+        [HttpGet("/ProximoID")] 
 
         public IActionResult GetCliente()
         {
@@ -108,6 +108,50 @@ namespace APIBancoPrueba.Controllers
                 return StatusCode(500, "Error interno! Intente luego");
             }
         }
+
+
+        // mail
+        [HttpPost("/VerMail")]
+
+        public IActionResult PostVerMail([FromBody]int dni)
+        {
+            try
+            {
+                if (dni == 0)
+                {
+                    return BadRequest("Datos de Cliente incorrectos!");
+                }
+                string mail = factory.VerMail(dni);
+
+                return Ok(mail);
+
+
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        }
+
+        [HttpPost("/ModificarMail")]
+
+        public IActionResult PostModificarrMail([FromBody]Cliente cliente)
+        {
+            try
+            {
+                if (cliente.dni == 0 || cliente.mail == "")
+                {
+                    return BadRequest("Datos de Cliente incorrectos!");
+                }
+
+                return Ok(factory.ModificarMail(cliente.dni, cliente.mail));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        } // ver
+
 
 
         // POST api/<UsuariosController>

@@ -32,7 +32,7 @@ namespace BancoApp_Formularios.Presentacion
 
         private void consultaClientesMaestroToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            new Form_MostrarDatos().Show(); // levantamos form mostrar datos consulta cuentas y para asociar cuenta o dar de baja a cliente existente
+            new Form_MostrarDatos().Show(); 
         }
 
         
@@ -44,7 +44,7 @@ namespace BancoApp_Formularios.Presentacion
 
         private void bajaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            new Form_MostrarDatos().ShowDialog(); // se podria poner la opcion Baja/ Modificacion en una misma opcion ya que ban al mismo formulario
+            new Form_MostrarDatos().ShowDialog(); 
         }
 
         private void modificacionToolStripMenuItem_Click_1(object sender, EventArgs e)
@@ -54,7 +54,7 @@ namespace BancoApp_Formularios.Presentacion
 
         private void altaClienteNuevoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            new Form_AltaCliente().ShowDialog(); // levantamos el form para cargar cliente y cuentas
+            new Form_AltaCliente().ShowDialog(); 
         }
 
         private void movimientoDeSaldosToolStripMenuItem_Click(object sender, EventArgs e)
@@ -62,13 +62,13 @@ namespace BancoApp_Formularios.Presentacion
 
             new Form_Movimiento_de_saldos().ShowDialog();
 
-            //aca levantamos el formulario nuevo que tiene que tener para cambiar de una cuenta a otra
+            
         }
 
         
         private void datosDeContactoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            new Form_DatosDeContacto().ShowDialog();
+            new Form_MailDeContacto().ShowDialog();
         }
 
         private void tablaDeEstadoCivilToolStripMenuItem_Click(object sender, EventArgs e)
@@ -78,7 +78,7 @@ namespace BancoApp_Formularios.Presentacion
 
         private void equipoDeTrabajoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            new Form_EquipoDeTrabajo().ShowDialog(); // aca levanta elformularionuevo creado por Mariela
+            new Form_EquipoDeTrabajo().ShowDialog(); 
         }
 
         private void listadoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -89,7 +89,7 @@ namespace BancoApp_Formularios.Presentacion
         private void reporteConFiltrosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             new Banco_Reportes.FORMULARIOS.FormReporteCuentasBaja().Show();
-            // meter unn reporte con filtro de fechas  . falta generar
+            
         }
     }
 }

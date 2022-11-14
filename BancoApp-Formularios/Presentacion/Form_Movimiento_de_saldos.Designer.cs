@@ -181,6 +181,7 @@
             // 
             this.dgvCuentas.AllowUserToAddRows = false;
             this.dgvCuentas.AllowUserToDeleteRows = false;
+            this.dgvCuentas.AllowUserToOrderColumns = true;
             this.dgvCuentas.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvCuentas.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(183)))), ((int)(((byte)(190)))));
             this.dgvCuentas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -188,7 +189,7 @@
             this.dgvCuentas.Name = "dgvCuentas";
             this.dgvCuentas.ReadOnly = true;
             this.dgvCuentas.RowTemplate.Height = 25;
-            this.dgvCuentas.Size = new System.Drawing.Size(751, 133);
+            this.dgvCuentas.Size = new System.Drawing.Size(785, 194);
             this.dgvCuentas.TabIndex = 5;
             this.dgvCuentas.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCuentas_CellContentClick);
             // 
@@ -197,7 +198,7 @@
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(832, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(519, 727);
+            this.pictureBox1.Size = new System.Drawing.Size(519, 605);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;

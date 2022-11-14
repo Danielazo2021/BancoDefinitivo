@@ -17,7 +17,7 @@ namespace BancoApp_Formularios.Presentacion
     public partial class Form_NuevaCuenta_ClienteExistente : Form
     {
         private Cliente miCliente;
-       // private int ProxiD { get; set; }
+      
         private double ProxCbu { get; set; }
 
         public Form_NuevaCuenta_ClienteExistente(Cliente miCliente1)
@@ -79,15 +79,12 @@ namespace BancoApp_Formularios.Presentacion
                 MessageBox.Show("Cargar el cbu", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
                 return;
             }
-            foreach (DataGridViewRow item in dgvClientes.Rows)
+            if(dgvClientes.Rows.Count>0)
             {
-                if (item.Cells["colTipo"].Value.ToString().Equals(cboTipoCuenta.Text)) //solo 1 cuenta por tipo de cuenta
-                {
-                    MessageBox.Show("La Cuenta: " + cboTipoCuenta.Text + " Ya esta cargada en la grilla", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
-                    return;
-                }
-
+                MessageBox.Show("Solo puede agregar de a una las cuentas extra a clientes ya registrados","ATENCION!!", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+                return;
             }
+            
 
             TipoCuenta tp = new TipoCuenta();
             tp.nom_tipo_cta = cboTipoCuenta.Text;

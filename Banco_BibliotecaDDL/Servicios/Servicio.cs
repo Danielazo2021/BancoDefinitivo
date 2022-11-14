@@ -132,19 +132,22 @@ namespace Banco_BibliotecaDDL.Servicios
             return dao.ModificarMail(dni, nuevoMail);
         }
 
-        /* public List<TipoCuenta>? ObtenerEstadoCivil() // modificar
-         {
-             throw new NotImplementedException();
-         }
-
-         public DataTable ReporteClientes()
-         {
-             throw new NotImplementedException();
-         }*/
+        
 
         public double ObtenerProximoCbu()
         {
             return dao.ObtenerProximoCBU();
         }
+
+        public bool GrabarNuevoEstadoCivil(string nuevoEstado)
+        {
+            return dao.GrabarNuevoEstadoCivil( nuevoEstado);
+        }
+        
+        public bool ModificarNuevoEstadoCivil(string nuevoEstado, string viejoEstado)
+        {
+            return dao.ModificarNuevoEstadoCivil(nuevoEstado, viejoEstado);
+        }
+
     }
 }

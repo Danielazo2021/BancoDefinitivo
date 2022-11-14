@@ -58,5 +58,8 @@ namespace Banco_BibliotecaDDL.Servicios
        public double ObtenerProximoCbu();
 
 
+       public bool GrabarNuevoEstadoCivil(string nuevoEstado);
+       
+        public bool ModificarNuevoEstadoCivil(string nuevoEstado, string viejoEstado);
     }
 }

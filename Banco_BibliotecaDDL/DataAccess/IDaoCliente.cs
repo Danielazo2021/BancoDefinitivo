@@ -51,5 +51,8 @@ namespace Banco_BibliotecaDDL.DataAccess
 
         public double ObtenerProximoCBU();
 
+        public bool GrabarNuevoEstadoCivil(string nuevoEstado);
+        
+        public bool ModificarNuevoEstadoCivil(string nuevoEstado, string viejoEstado);
     }
 }

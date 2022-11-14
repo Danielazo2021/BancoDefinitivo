@@ -865,5 +865,82 @@ namespace Banco_BibliotecaDDL.DataAccess
             }
             return tabla;
         }
+
+        public bool GrabarNuevoEstadoCivil(string sp_nombre, string nuevoEstado)
+        {
+
+            bool confirmacion = false;
+
+            try
+            {
+                cnn.Open();
+                SqlCommand cmdEstado = new SqlCommand();
+
+
+                cmdEstado.Connection = cnn;
+                cmdEstado.CommandText = sp_nombre;
+                cmdEstado.CommandType = CommandType.StoredProcedure;
+                cmdEstado.Parameters.AddWithValue("@AgregarEstado", nuevoEstado);
+
+                cmdEstado.ExecuteNonQuery();
+
+                cnn.Close();
+                confirmacion = true;
+
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+            finally
+            {
+                if (cnn != null && cnn.State == ConnectionState.Open)
+                    cnn.Close();
+            }
+
+            return confirmacion;
+
+        }
+
+
+        public bool ModificarNuevoEstadoCivil(string sp_nombre, string nuevoEstado, string viejoEstado)
+        {
+
+            bool confirmacion = false;
+
+            try
+            {
+                cnn.Open();
+                SqlCommand cmdEstado = new SqlCommand();
+
+
+                cmdEstado.Connection = cnn;
+                cmdEstado.CommandText = sp_nombre;
+                cmdEstado.CommandType = CommandType.StoredProcedure;
+                cmdEstado.Parameters.AddWithValue("@ModificarEstado", nuevoEstado);
+                cmdEstado.Parameters.AddWithValue("@estadoViejo", viejoEstado);
+                cmdEstado.ExecuteNonQuery();
+
+                cnn.Close();
+                confirmacion = true;
+
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+            finally
+            {
+                if (cnn != null && cnn.State == ConnectionState.Open)
+                    cnn.Close();
+            }
+
+            return confirmacion;
+
+
+        }
+
+        }
     }
-}

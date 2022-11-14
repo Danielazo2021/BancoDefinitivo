@@ -495,7 +495,6 @@
                             <rd:FormatSymbolCulture>es-AR</rd:FormatSymbolCulture>
                           </Style>
                         </Textbox>
-                        <rd:Selected>true</rd:Selected>
                       </CellContents>
                     </TablixCell>
                     <TablixCell>
@@ -883,7 +882,7 @@
             </ChartLegends>
             <ChartTitles>
               <ChartTitle Name="Default">
-                <Caption>CANTIDAD DE TIPOS DE CUENTA</Caption>
+                <Caption>CANTIDAD DE CUNTAS AGRUPADAS POR TIPOS DE CUENTA, EXPRESADO EN UNIDADES</Caption>
                 <Style>
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontFamily>Arial Black</FontFamily>
@@ -913,7 +912,7 @@
               </Style>
             </ChartNoDataMessage>
             <DataSetName>DataSet11</DataSetName>
-            <Top>2.21987cm</Top>
+            <Top>2.18459cm</Top>
             <Left>0.36724cm</Left>
             <Height>7.99359cm</Height>
             <Width>16.40734cm</Width>
@@ -1117,7 +1116,7 @@
                       <Color>#5c5c5c</Color>
                     </Style>
                     <ChartAxisTitle>
-                      <Caption />
+                      <Caption>Valor expresado en pesos</Caption>
                       <Style>
                         <FontSize>9pt</FontSize>
                         <Color>#5c5c5c</Color>
@@ -1244,7 +1243,7 @@
             </ChartLegends>
             <ChartTitles>
               <ChartTitle Name="Default">
-                <Caption>SALDO TOTAL POR TIPO DE CUENTA</Caption>
+                <Caption>SALDO ACUMULADO POR TIPO DE CUENTA, EXPRESADO EN PESOS</Caption>
                 <Style>
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontFamily>Arial Black</FontFamily>

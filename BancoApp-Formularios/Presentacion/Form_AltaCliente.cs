@@ -9,6 +9,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -22,23 +23,55 @@ namespace CRUDbanco
         private int ProxiD { get; set; }
         private double ProxCbu { get; set; }
 
-        // private IServicio factory = new Servicio();
+        
         public Form_AltaCliente()
         {
             InitializeComponent();
 
         }
 
+        private void enviarCorreo() // desde la direccion de nico se envia un mail cada vez que se registra un cliente nuevo para dar la Bienvenida
+        {
+            try
+            {
+                SmtpClient client = new SmtpClient("smtp-mail.outlook.com");
+
+                client.Port = 587;
+                client.DeliveryMethod = SmtpDeliveryMethod.Network;
+                client.UseDefaultCredentials = false;
+                System.Net.NetworkCredential credential = new System.Net.NetworkCredential("cuentacorreonico@outlook.com", "Nico12345");
+                client.EnableSsl = true;
+                client.Credentials = credential;
+
+                MailMessage message = new MailMessage("cuentacorreonico@outlook.com", txtMail.Text);
+                message.Subject = "Alta de cliente";
+                message.Body = "<h1>Alta de cliente Banco Meta</h1>";
+                message.IsBodyHtml = true;
+                client.Send(message);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
         private async void AltaCliente_Load(object sender, EventArgs e)
         {
+           await Iniciar();
+           
+        }
 
+        private async Task Iniciar()
+        {
             await ObtenerProximoAsync();
-           await CargarCombo();
-           await CargarComboEstados();
+            await CargarCombo();
+            await CargarComboEstados();
             await ObtenerProximoCBUAsync();
 
-            miCliente = new Cliente();
+             miCliente = new Cliente();
         }
+
 
         private async Task ObtenerProximoCBUAsync()
         {
@@ -95,7 +128,7 @@ namespace CRUDbanco
                 var result = await client.GetAsync(url);
                 string content = await result.Content.ReadAsStringAsync();
 
-                var lst = JsonConvert.DeserializeObject<List<TipoCuenta>>(content); // ver que paso// hay que hacer un new de alguna forma
+                var lst = JsonConvert.DeserializeObject<List<TipoCuenta>>(content); 
 
                 cboTipoCuenta.DataSource = lst;
                 cboTipoCuenta.ValueMember = "id";
@@ -104,10 +137,7 @@ namespace CRUDbanco
         }
 
 
-       /* private async Task btnAgregar_Click(object sender, EventArgs e)
-        {
-            
-        }*/
+      
 
         private async void btnAceptar_Click(object sender, EventArgs e)
         {
@@ -126,7 +156,7 @@ namespace CRUDbanco
             }
 
             await grabarMaestroDetalleAsync();
-
+            
         }
 
         private async Task grabarMaestroDetalleAsync()
@@ -153,13 +183,14 @@ namespace CRUDbanco
             {
                 MessageBox.Show("Se inserto con exito", "BIEN", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
                 MessageBox.Show("Se acaba de enviar unn mail de bienvenida a la direccion : " + txtMail.Text);
-
+                enviarCorreo(); 
                 limpiarCampos();
             }
             else
             {
                 MessageBox.Show("Error!!, NO inserto con exito", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
             }
+            await Iniciar();
 
         }
 

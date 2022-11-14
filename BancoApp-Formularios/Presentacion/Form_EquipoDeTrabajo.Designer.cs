@@ -68,6 +68,7 @@
             this.Name = "Form_EquipoDeTrabajo";
             this.Text = "EquipoDeTrabajo";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.Form_EquipoDeTrabajo_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

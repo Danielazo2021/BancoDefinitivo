@@ -18,17 +18,17 @@ namespace CRUDbanco.Presentacion
 {
     public partial class Form_MostrarDatos : Form
     {
-        IServicio factory;
+       
         int dni;
 
         public Form_MostrarDatos()
         {
             InitializeComponent();
-            factory = new Servicio();
+            
         }
 
 
-        private async void btnConsultar_Click_1(object sender, EventArgs e)  //deberia ser async
+        private async void btnConsultar_Click_1(object sender, EventArgs e)  
         {
             if (txtDni.Text == "")
             {
@@ -73,7 +73,7 @@ namespace CRUDbanco.Presentacion
 
         }
 
-        private void btnNuevaCuenta_Click(object sender, EventArgs e)
+        private  void btnNuevaCuenta_Click(object sender, EventArgs e)  
         {
             if (dgvMostrarCliente.RowCount < 1)
             {
@@ -81,35 +81,49 @@ namespace CRUDbanco.Presentacion
                 return;
             }
             Cliente miCliente1 = new Cliente();
+            int contador = 0;
 
-
-            DataTable clientes;
-
-            try
-            {
-                clientes = factory.ListarClientes(dni);
-
-                for (int i = 0; i < (clientes.Rows.Count); i++)
+                foreach (DataGridViewRow item in dgvMostrarCliente.Rows)
                 {
 
-                    miCliente1.idCliente = Convert.ToInt32(clientes.Rows[i]["id_cliente"]);
-                    miCliente1.nombre = clientes.Rows[i]["nom_cliente"].ToString();
-                    miCliente1.apellido = clientes.Rows[i]["ape_cliente"].ToString();
-                    miCliente1.dni = Convert.ToInt32(clientes.Rows[i]["dni"]);
+                if (item.Cells["Id"].Value.ToString()!= null)
+                {
+                    miCliente1.idCliente = Convert.ToInt32(item.Cells["Id"].Value.ToString());
+                    contador++;
+                }
+                if (item.Cells["Nombre"].Value.ToString() != null)
+                    {
+                        miCliente1.nombre = (item.Cells["Nombre"].Value.ToString());
+                    contador++;
+                    }
+                if (item.Cells["Apellido"].Value.ToString() != null)
+                {
+                    miCliente1.apellido = (item.Cells["Apellido"].Value.ToString());
+                    contador++;
+                }
+                if (item.Cells["DNI"].Value.ToString() != null)
+                {
+                    miCliente1.dni = Convert.ToInt32(item.Cells["DNI"].Value.ToString());
+                    contador++;
+                } 
+
+
+
+                if (contador==4)
+                {
+                    break;
                 }
 
-                new Form_NuevaCuenta_ClienteExistente(miCliente1).ShowDialog();
+            }
 
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error!");
-            }
+            new Form_NuevaCuenta_ClienteExistente(miCliente1).ShowDialog();
+            
         }
 
 
 
-        private void btnBajaCuenta_Click(object sender, EventArgs e)
+
+        private async void btnBajaCuenta_Click(object sender, EventArgs e)   
         {
 
             double cuentaBaja = Convert.ToDouble(dgvMostrarCliente.CurrentRow.Cells[5].Value.ToString());
@@ -117,6 +131,31 @@ namespace CRUDbanco.Presentacion
               "Atencion", MessageBoxButtons.YesNo, MessageBoxIcon.Question,
               MessageBoxDefaultButton.Button2) == DialogResult.Yes)
             {
+                await DeleteCuentaAsync(cuentaBaja);
+            }
+        }
+
+        private async Task DeleteCuentaAsync( double cuentaBaja)
+        {
+
+
+            string bodyContent = JsonConvert.SerializeObject(cuentaBaja);
+            string url = "https://localhost:7224/BajaLogicaCuenta";
+            var result = await ClientSingleton.GetInstance().PostAsync(url, bodyContent);
+
+            if (result.Equals("true"))
+            {
+                MessageBox.Show("Se dio de baja con exito");
+
+            }
+            else
+            {
+                MessageBox.Show("Error!!, NO se pudo dar de baja la cuenta", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+            }
+
+
+
+            /*
                 if (factory.DeleteCbu(cuentaBaja))
                 {
                     MessageBox.Show("La cuenta " + cuentaBaja + " ha sido dada de baja");
@@ -125,8 +164,8 @@ namespace CRUDbanco.Presentacion
                 {
                     MessageBox.Show("ERROR! - La cuenta no ha podido ser dada de baja");
                 }
+            */
 
-            }
 
         }
 

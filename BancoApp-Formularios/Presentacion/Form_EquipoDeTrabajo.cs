@@ -21,5 +21,10 @@ namespace BancoApp_Formularios.Presentacion
         {
             this.Dispose();
         }
+
+        private void Form_EquipoDeTrabajo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

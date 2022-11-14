@@ -25,5 +25,8 @@ namespace Banco_BibliotecaDDL.DataAccess
             string sp_nombre = "sp_CuentasDadasDeBaja_Con_Parametros";
             return HelperDao.ObtenerInstancia().ReporteCuentasBaja(sp_nombre,desde,hasta);
         }
+
+
+
     }
 }
