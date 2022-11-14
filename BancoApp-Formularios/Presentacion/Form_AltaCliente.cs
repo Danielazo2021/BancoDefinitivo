@@ -23,14 +23,14 @@ namespace CRUDbanco
         private int ProxiD { get; set; }
         private double ProxCbu { get; set; }
 
-        // private IServicio factory = new Servicio();
+        
         public Form_AltaCliente()
         {
             InitializeComponent();
 
         }
 
-        private void enviarCorreo()
+        private void enviarCorreo() // desde la direccion de nico se envia un mail cada vez que se registra un cliente nuevo para dar la Bienvenida
         {
             try
             {
@@ -128,7 +128,7 @@ namespace CRUDbanco
                 var result = await client.GetAsync(url);
                 string content = await result.Content.ReadAsStringAsync();
 
-                var lst = JsonConvert.DeserializeObject<List<TipoCuenta>>(content); // ver que paso// hay que hacer un new de alguna forma
+                var lst = JsonConvert.DeserializeObject<List<TipoCuenta>>(content); 
 
                 cboTipoCuenta.DataSource = lst;
                 cboTipoCuenta.ValueMember = "id";
@@ -137,10 +137,7 @@ namespace CRUDbanco
         }
 
 
-       /* private async Task btnAgregar_Click(object sender, EventArgs e)
-        {
-            
-        }*/
+      
 
         private async void btnAceptar_Click(object sender, EventArgs e)
         {
@@ -186,7 +183,7 @@ namespace CRUDbanco
             {
                 MessageBox.Show("Se inserto con exito", "BIEN", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
                 MessageBox.Show("Se acaba de enviar unn mail de bienvenida a la direccion : " + txtMail.Text);
-                enviarCorreo(); // ver si funciona 
+                enviarCorreo(); 
                 limpiarCampos();
             }
             else

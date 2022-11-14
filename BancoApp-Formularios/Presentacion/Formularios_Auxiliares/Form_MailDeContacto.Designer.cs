@@ -153,7 +153,7 @@
             this.pictureBox1.TabIndex = 20;
             this.pictureBox1.TabStop = false;
             // 
-            // Form_DatosDeContacto
+            // Form_MailDeContacto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -171,9 +171,10 @@
             this.Controls.Add(this.btnVolverMenu);
             this.Controls.Add(this.btnModificarMail);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form_DatosDeContacto";
+            this.Name = "Form_MailDeContacto";
             this.Text = "ABM-Datos de contacto de cliente";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.Form_MailDeContacto_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -56,7 +56,7 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
             }
         }
 
-        private void btnConsultar_Click(object sender, EventArgs e)
+        private void btnConsultar_Click(object sender, EventArgs e) // cambiar
         {
             int dni;
             try
@@ -70,12 +70,12 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
             }
 
 
-            lblResultado.Text = "Estado: " + factory.VerEstadoCivil(dni);
+            lblResultado.Text = "Estado: " + factory.VerEstadoCivil(dni);  // este
 
 
         }
 
-        private void btnModificar_Click(object sender, EventArgs e)
+        private void btnModificar_Click(object sender, EventArgs e)  // cambiar 
         {
             int nuevoEstado = (Convert.ToInt32(cboEstadoCivil.SelectedIndex) + 1);
             int dni;
@@ -94,7 +94,7 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
                 MessageBox.Show("Debe seleccionar el nuevo estado civil");
                 return;
             }
-            bool resultado = factory.ModificarEstadoCivil(dni, nuevoEstado);
+            bool resultado = factory.ModificarEstadoCivil(dni, nuevoEstado);  // este
             if (resultado)
             {
                 MessageBox.Show("Se actualizo con EXITO el estado Civil!!!");
@@ -138,7 +138,7 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
 
         }
 
-        private void verificarnuevoestado(bool nuevo)
+        private void verificarnuevoestado(bool nuevo)  // cambiar 
         {
           
             if (txtNuevoEstado.Text == "")
@@ -150,14 +150,12 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
             string viejoEstado = cboEstadoExistente.Text;
             if (nuevo)
             {
-                factory.GrabarNuevoEstadoCivil(nuevoEstado);
+                factory.GrabarNuevoEstadoCivil(nuevoEstado);  // este 
             }  
              else{
-                factory.ModificarNuevoEstadoCivil(nuevoEstado, viejoEstado);
+                factory.ModificarNuevoEstadoCivil(nuevoEstado, viejoEstado);  // este
             }
-            //
-            //grabar en la base de datos
-            //actualizar el cbo
+            
 
         }
 

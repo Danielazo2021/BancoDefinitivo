@@ -37,7 +37,7 @@ namespace BancoApp_Formularios.Presentacion
             string[] limpiar = new string[10]; 
             dgvCuentas.DataSource = limpiar;
             dgvCuentas.Columns.Clear();
-          //  dgvCuentas.Rows.Clear();
+          
             
             
 
@@ -45,14 +45,11 @@ namespace BancoApp_Formularios.Presentacion
             ActualizarCboOrigenyDestino();
         }
 
-        private void actualizarDGV() // hacer un sp que tire las cuentas por dni que ya lo tenemos creo
+        private void actualizarDGV()   // modificar
         {
             dni = Convert.ToInt32(txtDNI.Text);
             dgvCuentas.DataSource = null;
-
-            dgvCuentas.DataSource = factory.ConsultarCuentasPorDNI(dni);
-            //  dgvCuentas.AutoSize = true;
-            // dgvCuentas.AutoResizeColumn(4);
+            dgvCuentas.DataSource = factory.ConsultarCuentasPorDNI(dni);    /// modificar           
             dgvCuentas.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
         }
 
@@ -61,16 +58,15 @@ namespace BancoApp_Formularios.Presentacion
 
         private void Form_Movimiento_de_saldos_Load(object sender, EventArgs e)
         {
-
-            //dgv row 4
+            //que onda
         }
 
-        private void ActualizarCboOrigenyDestino()
+        private void ActualizarCboOrigenyDestino()  // modificar
         {
             try
             {
                 dni = Convert.ToInt32(txtDNI.Text);
-                DataTable DtCbu = factory.ConsultarCuentasPorDNI(dni);
+                DataTable DtCbu = factory.ConsultarCuentasPorDNI(dni);  // este
                 int tam = DtCbu.Rows.Count;
 
                 double[] ArrCBUOrigen = new double[tam];
@@ -198,7 +194,7 @@ namespace BancoApp_Formularios.Presentacion
         private async Task RealizarTransferencia()
         {
 
-            //hacer validaciones
+            
             List<Cuenta> Transfer = new List<Cuenta>();
 
             Origen.Cbu = Convert.ToDouble(cboCuentaOrigen.Text);
@@ -209,10 +205,10 @@ namespace BancoApp_Formularios.Presentacion
             Transfer.Add(Origen); // uso saldo, pero es el importe a transferir
             Transfer.Add(Destino);
 
-            // ahora puedo serializar el objeto Transfer para mandar
+            
 
             string bodyContent = JsonConvert.SerializeObject(Transfer);
-            string url = "https://localhost:7224/RealizarTransferencia"; // cmbiar
+            string url = "https://localhost:7224/RealizarTransferencia"; 
             var result = await ClientSingleton.GetInstance().PostAsync(url, bodyContent);
 
 

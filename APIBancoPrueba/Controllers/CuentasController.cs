@@ -75,7 +75,24 @@ namespace APIBancoPrueba.Controllers
             }
         }
 
+        // baja cuenta cbu
+        [HttpPost("/BajaLogicaCuenta")]
+        public IActionResult PostTransferencia([FromBody]double cuenta)
+        {
+            try
+            {
+                if (cuenta == 0)
+                {
+                    return BadRequest("Datos de cuenta incorrectos!");
+                }
 
+                return Ok(factory.DeleteCbu(cuenta));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        }
 
 
         //ver que paso con el get cuentas

@@ -1,10 +1,15 @@
-﻿using Banco_BibliotecaDDL.Servicios;
+﻿using Banco_BibliotecaDDL.Dominio;
+using Banco_BibliotecaDDL.Servicios;
+using BancoApp_Formularios.HTTP;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net;
+using System.Security.Cryptography.Xml;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -19,7 +24,7 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
             factory = new Servicio();
             InitializeComponent();
         }
-        private void btnConsultar_Click(object sender, EventArgs e)
+        private async void btnConsultar_Click(object sender, EventArgs e) //cambiar
         {
             int dni;
             try
@@ -32,10 +37,28 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
                 return;
             }
 
-            lblResultado.Text = "Mail:  " + factory.VerMail(dni);
+             await VerMailAsync(dni);// factory.VerMail(dni);  // este
         }
 
-        private void btnModificarMail_Click(object sender, EventArgs e)
+        private async Task VerMailAsync(int dni)  //   ok
+        {
+            string bodyContent = JsonConvert.SerializeObject(dni);
+            string url = "https://localhost:7224/VerMail";
+            var result = await ClientSingleton.GetInstance().PostAsync(url, bodyContent);
+                                 
+            if (result !="") 
+            {
+                lblResultado.Text = "Mail:  " + result;
+                
+            }
+            else
+            {
+                MessageBox.Show("Error!!, NO se pudo recuperar el email registrado anteriormente", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+            }  
+
+        }
+
+        private async void btnModificarMail_Click(object sender, EventArgs e)  // cambiar
         {
 
             string nuevoMail = txtMail.Text;
@@ -55,18 +78,35 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
                 MessageBox.Show("Debe ingresar el nuevo mail");
                 return;
             }
-            bool resultado = factory.ModificarMail(dni, nuevoMail);
-            if (resultado)
+
+             await ModificarMailAsync(dni, nuevoMail);
+            
+        }
+
+        private async Task ModificarMailAsync(int dni, string nuevoMail)
+        {
+            Cliente miCliente = new Cliente();
+            miCliente.dni = dni;
+            miCliente.mail = nuevoMail;
+
+
+            string bodyContent = JsonConvert.SerializeObject(miCliente);
+            string url = "https://localhost:7224/ModificarMail";
+            var result = await ClientSingleton.GetInstance().PostAsync(url, bodyContent);
+
+            if (result.Equals("true"))
             {
-                MessageBox.Show("Se actualizo con EXITO el mail!!!");
-                lblResultado.Text = "Mail Actualizado a:  " + txtMail.Text;
+                MessageBox.Show("Se acualizo el mail con exito");
+
             }
             else
             {
-                MessageBox.Show("ERROR!!, NO se actualizo el mail");
+                MessageBox.Show("Error!!, NO se pudo actualizar el email registrado anteriormente", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
             }
 
+
         }
+
 
         private void btnVolverMenu_Click(object sender, EventArgs e)
         {
@@ -87,6 +127,9 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
 
         }
 
-        
+        private void Form_MailDeContacto_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
