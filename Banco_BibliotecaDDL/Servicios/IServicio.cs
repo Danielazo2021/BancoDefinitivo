@@ -18,7 +18,7 @@ namespace Banco_BibliotecaDDL.Servicios
 
 
 
-        // estos son del controller de usuario
+        // estos son del controller de usuario Login
         public bool validarLogin(usuarioLogin miUsuario);
 
         public bool RegistrarLogin(usuarioLogin miUsuario);
@@ -60,6 +60,6 @@ namespace Banco_BibliotecaDDL.Servicios
 
        public bool GrabarNuevoEstadoCivil(string nuevoEstado);
        
-        public bool ModificarNuevoEstadoCivil(string nuevoEstado, string viejoEstado);
+        public bool ModificarNuevoEstadoCivil(EstadoCivil miNuevoEstadoCivil);
     }
 }

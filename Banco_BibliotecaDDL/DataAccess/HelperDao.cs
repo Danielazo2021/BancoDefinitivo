@@ -904,7 +904,7 @@ namespace Banco_BibliotecaDDL.DataAccess
         }
 
 
-        public bool ModificarNuevoEstadoCivil(string sp_nombre, string nuevoEstado, string viejoEstado)
+        public bool ModificarNuevoEstadoCivil(string sp_nombre, EstadoCivil miNuevoEstadoCivil)
         {
 
             bool confirmacion = false;
@@ -918,8 +918,8 @@ namespace Banco_BibliotecaDDL.DataAccess
                 cmdEstado.Connection = cnn;
                 cmdEstado.CommandText = sp_nombre;
                 cmdEstado.CommandType = CommandType.StoredProcedure;
-                cmdEstado.Parameters.AddWithValue("@ModificarEstado", nuevoEstado);
-                cmdEstado.Parameters.AddWithValue("@estadoViejo", viejoEstado);
+                cmdEstado.Parameters.AddWithValue("@idEstadoViejo", miNuevoEstadoCivil.id_estado);
+                cmdEstado.Parameters.AddWithValue("@nomNuevoEstado", miNuevoEstadoCivil.nom_estado);
                 cmdEstado.ExecuteNonQuery();
 
                 cnn.Close();

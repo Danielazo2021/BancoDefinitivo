@@ -72,19 +72,21 @@ namespace APIBancoPrueba.Controllers
 
         }
 
-        [HttpPost("/ValidarUsuario")]
-        public IActionResult ValidarUsuario(usuarioLogin miUsuario)
+      
+
+        [HttpPost("/ValidarUsuarioLogin")]
+        public IActionResult PostValidarUsuarioLogin( [FromBody] usuarioLogin miUsuario) // ver que pasa con la url del form
         {
             try
             {
-                if (miUsuario == null)
+                if (miUsuario.dni == 0 || miUsuario.pass == "")
                 {
                     return BadRequest("Datos de usuario incorrectos!");
                 }
 
                 if (factory.validarLogin(miUsuario))
                 {
-                    return Ok("acceso concedido");
+                    return Ok("true");
                 }
                 else
                 {

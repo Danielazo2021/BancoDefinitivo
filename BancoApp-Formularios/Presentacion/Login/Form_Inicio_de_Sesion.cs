@@ -14,23 +14,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Net;
 
 namespace bacnoApp_winForm
 {
     public partial class Form_Inicio_de_Sesion : Form
     {
        private IServicio factory= new Servicio();
-        usuarioLogin miUsuario = new usuarioLogin();
-       //string nom_usuario="";
-      //  int dni=0;
-      //  string pass="";
+        usuarioLogin miUsuario { get; set; } = new usuarioLogin();
+      
 
         public Form_Inicio_de_Sesion()
         {
             InitializeComponent();
         }
 
-        private  void btnIngresar_Click(object sender, EventArgs e)
+        private  async void btnIngresar_Click(object sender, EventArgs e)
         {
             if(txtDni.Text=="")
             {
@@ -42,32 +41,38 @@ namespace bacnoApp_winForm
                 MessageBox.Show("Debe ingresar la contraseña");
                 return;
             }
-             VerificarLoginAsync();
+
+
+            await VerificarLoginAsync();//miUsuario);
 
            
         }
 
-        private  void VerificarLoginAsync()
+        private  async Task VerificarLoginAsync()//usuarioLogin miUsuario)
         {
             miUsuario.dni = Convert.ToInt32(txtDni.Text);
             miUsuario.pass = txtPass.Text;
            
 
+
              bool confirmacion= factory.validarLogin(miUsuario); 
-      
+
+           
 
             if (confirmacion) 
-
             {
+
                 limpiarCampos();
                 new Form_MenuPrincipal().ShowDialog();
+
             }
             else
             {
                 MessageBox.Show("Usuario o Contraseña incorrecta, intente nuevamente para continuar");
                 limpiarCampos();
-
             }
+            
+
         }
 
 
@@ -120,9 +125,9 @@ namespace bacnoApp_winForm
             miUsuario.dni = Convert.ToInt32(txtDni.Text);
             miUsuario.pass = txtPass.Text;
 
-            bool confirmacion = factory.validarLogin(miUsuario); // sin api
+            bool confirmacion = factory.validarLogin(miUsuario);
 
-            //bool confirmacion = await validarUsuario(miUsuario);  // con api , pero nofunciona :P
+           
 
             if (confirmacion)
             {
@@ -138,14 +143,7 @@ namespace bacnoApp_winForm
             }
             
         }
-       /* private bool verificarPass(int dni, string pass)        {
-            bool confirmacion = true; // por defecto para probar despues cambiar a false
-            if (confirmacion)// tengo que llamar a la api con un get, si devuelve true devuelvo true
-            {
-                confirmacion = true;
-            }
-            return confirmacion;
-        }*/
+      
 
         private void Form_Inicio_de_Sesion_Load(object sender, EventArgs e)
         {
