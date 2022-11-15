@@ -37,7 +37,7 @@ namespace Banco_Reportes.FORMULARIOS
 
         }
 
-        private async void CargarReportes()
+        private  void CargarReportes()
         {
             
         }

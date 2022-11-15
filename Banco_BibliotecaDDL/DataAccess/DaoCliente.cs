@@ -185,10 +185,10 @@ namespace Banco_BibliotecaDDL.DataAccess
             return HelperDao.ObtenerInstancia().GrabarNuevoEstadoCivil(sp_nombre, nuevoEstado);
         }
         
-        public bool ModificarNuevoEstadoCivil(string nuevoEstado, string viejoEstado)
+        public bool ModificarNuevoEstadoCivil(EstadoCivil miNuevoEstadoCivil)
         {
             string sp_nombre = "pa_ModificacionNuevoEstadoCivil";
-            return HelperDao.ObtenerInstancia().ModificarNuevoEstadoCivil(sp_nombre, nuevoEstado, viejoEstado);
+            return HelperDao.ObtenerInstancia().ModificarNuevoEstadoCivil(sp_nombre,  miNuevoEstadoCivil);
         }
 
 

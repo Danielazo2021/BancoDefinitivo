@@ -49,9 +49,9 @@ namespace CRUDbanco
                 message.IsBodyHtml = true;
                 client.Send(message);
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
+                MessageBox.Show("Se enviara el mail en unos instantes");
                 throw;
             }
         }

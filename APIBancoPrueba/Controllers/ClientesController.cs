@@ -133,6 +133,93 @@ namespace APIBancoPrueba.Controllers
             }
         }
 
+        [HttpPost("/VerEstadoCivil")]
+
+        public IActionResult PostVerEstadoCivil([FromBody] int dni)
+        {
+            try
+            {
+                if (dni == 0)
+                {
+                    return BadRequest("Datos de Cliente incorrectos!");
+                }
+                string estadoCivil = factory.VerEstadoCivil(dni);
+
+                return Ok(estadoCivil);
+
+
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        }
+
+        [HttpPost("/ModificarEstadoCivil")]
+
+        public IActionResult PostModificarEstadoCivil([FromBody] Cliente cliente)
+        {
+            try
+            {
+                if (cliente.dni == 0 || cliente.estadoCiv.id_estado == 0)
+                {
+                    return BadRequest("Datos de Cliente incorrectos!");
+                }
+
+                return Ok(factory.ModificarEstadoCivil(cliente.dni, cliente.estadoCiv.id_estado));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        }
+
+        // agregar estado civil en tabla
+
+        [HttpPost("/AgregarEstadoCivilEnTabla")]
+
+        public IActionResult PostAgregarEstadoCivilEnTabla([FromBody] string nuevoEstado)
+        {
+            try
+            {
+                if (nuevoEstado=="")
+                {
+                    return BadRequest("Datos de Estado Civil nuevo incorrectos!");
+                }
+
+                return Ok(factory.GrabarNuevoEstadoCivil(nuevoEstado));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        }
+
+        // modificar en tabla
+        [HttpPost("/ModificarEstadoCivilEnTabla")]
+
+        public IActionResult PostModificarEstadoCivilEnTabla([FromBody] EstadoCivil miNuevoEstado)
+        {
+            try
+            {
+                if (miNuevoEstado.id_estado == 0 || miNuevoEstado.nom_estado == "")
+                {
+                    return BadRequest("Datos de Estado civil nuevo incorrectos!");
+                }
+
+                return Ok(factory.ModificarNuevoEstadoCivil(miNuevoEstado)); // modificar en servicio y sp
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, "Error interno! Intente luego");
+            }
+        }
+
+
+
+
+
+
         [HttpPost("/ModificarMail")]
 
         public IActionResult PostModificarrMail([FromBody]Cliente cliente)

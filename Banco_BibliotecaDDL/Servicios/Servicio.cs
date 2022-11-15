@@ -144,9 +144,9 @@ namespace Banco_BibliotecaDDL.Servicios
             return dao.GrabarNuevoEstadoCivil( nuevoEstado);
         }
         
-        public bool ModificarNuevoEstadoCivil(string nuevoEstado, string viejoEstado)
+        public bool ModificarNuevoEstadoCivil(EstadoCivil miNuevoEstadoCivil)
         {
-            return dao.ModificarNuevoEstadoCivil(nuevoEstado, viejoEstado);
+            return dao.ModificarNuevoEstadoCivil( miNuevoEstadoCivil);
         }
 
     }

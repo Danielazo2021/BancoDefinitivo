@@ -53,6 +53,6 @@ namespace Banco_BibliotecaDDL.DataAccess
 
         public bool GrabarNuevoEstadoCivil(string nuevoEstado);
         
-        public bool ModificarNuevoEstadoCivil(string nuevoEstado, string viejoEstado);
+        public bool ModificarNuevoEstadoCivil(EstadoCivil miNuevoEstadoCivil);
     }
 }

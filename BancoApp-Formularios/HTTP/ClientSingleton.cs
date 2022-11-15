@@ -23,7 +23,7 @@ namespace BancoApp_Formularios.HTTP
         }
 
 
-        public async Task<string> GetAsync(string url) // ver si le mando por parametros y funciona... 
+        public async Task<string> GetAsync(string url)  
         {
             var result = await client.GetAsync(url);
             var content = "";
@@ -32,7 +32,7 @@ namespace BancoApp_Formularios.HTTP
             return content;
         }
 
-        public async Task<string> GetAsync(string url, string usuarioJson) // ver si es usuario api
+        public async Task<string> GetAsync(string url, string usuarioJson) 
         {
             var result = await client.GetAsync(url);
             var content = "";

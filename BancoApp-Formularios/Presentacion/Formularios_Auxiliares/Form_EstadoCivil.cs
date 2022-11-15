@@ -1,5 +1,6 @@
 ﻿using Banco_BibliotecaDDL.Dominio;
 using Banco_BibliotecaDDL.Servicios;
+using BancoApp_Formularios.HTTP;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -15,12 +16,13 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
 {
     public partial class Form_EstadoCivil : Form
     {
-        private IServicio factory;
+       
         private bool nuevo;
+        
 
         public Form_EstadoCivil()
         {
-            factory = new Servicio();
+           
             InitializeComponent();
         
         }
@@ -56,7 +58,7 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
             }
         }
 
-        private void btnConsultar_Click(object sender, EventArgs e) // cambiar
+        private async void btnConsultar_Click(object sender, EventArgs e) 
         {
             int dni;
             try
@@ -69,13 +71,28 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
                 return;
             }
 
+            await VerEstadoAsync(dni);    
+        }
 
-            lblResultado.Text = "Estado: " + factory.VerEstadoCivil(dni);  // este
+        private async Task VerEstadoAsync(int dni)  
+        {
+            string bodyContent = JsonConvert.SerializeObject(dni);
+            string url = "https://localhost:7224/VerEstadoCivil"; 
+            var result = await ClientSingleton.GetInstance().PostAsync(url, bodyContent);
 
+            if (result != "")
+            {
+                lblResultado.Text = "Estado: " + result;
+
+            }
+            else
+            {
+                MessageBox.Show("Error!!, NO se pudo recuperar el Estado Civil registrado anteriormente", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+            }
 
         }
 
-        private void btnModificar_Click(object sender, EventArgs e)  // cambiar 
+        private async void btnModificar_Click(object sender, EventArgs e)   
         {
             int nuevoEstado = (Convert.ToInt32(cboEstadoCivil.SelectedIndex) + 1);
             int dni;
@@ -94,23 +111,37 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
                 MessageBox.Show("Debe seleccionar el nuevo estado civil");
                 return;
             }
-            bool resultado = factory.ModificarEstadoCivil(dni, nuevoEstado);  // este
-            if (resultado)
+
+            await ModificarEstadoCivilAsync(dni, nuevoEstado);
+        }
+
+
+        private async Task ModificarEstadoCivilAsync(int dni, int nuevoEsatdoCivil)
+        {
+            Cliente miCliente = new Cliente();
+            miCliente.dni = dni;
+            miCliente.estadoCiv.id_estado = nuevoEsatdoCivil;
+
+
+            string bodyContent = JsonConvert.SerializeObject(miCliente);
+            string url = "https://localhost:7224/ModificarEstadoCivil"; // ver
+            var result = await ClientSingleton.GetInstance().PostAsync(url, bodyContent);
+
+            if (result.Equals("true"))
             {
-                MessageBox.Show("Se actualizo con EXITO el estado Civil!!!");
+                MessageBox.Show("Se acualizo el Estado Civil con exito");
                 lblResultado.Text = "Estado Actualizado";
+
             }
             else
             {
-                MessageBox.Show("ERROR!!, NO se actualizo el Estado Civil");
+                MessageBox.Show("Error!!, NO se pudo actualizar el Estado Civil registrado anteriormente", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
             }
-          
-
-
-
         }
 
-        private void btnCancelar_Click(object sender, EventArgs e)
+
+
+            private void btnCancelar_Click(object sender, EventArgs e)
         {
             limpiarCampos();
         }
@@ -138,7 +169,7 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
 
         }
 
-        private void verificarnuevoestado(bool nuevo)  // cambiar 
+        private async void verificarnuevoestado(bool nuevo)  
         {
           
             if (txtNuevoEstado.Text == "")
@@ -147,17 +178,62 @@ namespace BancoApp_Formularios.Presentacion.Formularios_Auxiliares
                 return;
             }
             string nuevoEstado = txtNuevoEstado.Text;
-            string viejoEstado = cboEstadoExistente.Text;
+            int  idViejoEstado = (cboEstadoExistente.SelectedIndex +1); 
             if (nuevo)
             {
-                factory.GrabarNuevoEstadoCivil(nuevoEstado);  // este 
+                await GrabarNuevoEstadoCivilAsync(nuevoEstado);
+               
             }  
              else{
-                factory.ModificarNuevoEstadoCivil(nuevoEstado, viejoEstado);  // este
+                await ModificarNuevoEstadoCivilAsync(nuevoEstado, idViejoEstado);
+            
             }
             
 
         }
+
+
+        private async Task GrabarNuevoEstadoCivilAsync( string nuevoEstado)
+        {
+            string bodyContent = JsonConvert.SerializeObject(nuevoEstado);
+            string url = "https://localhost:7224/AgregarEstadoCivilEnTabla"; 
+            var result = await ClientSingleton.GetInstance().PostAsync(url, bodyContent);
+
+            if (result.Equals("true"))
+            {
+                MessageBox.Show("Se Agrego el Estado Civil nuevo en la tabla");
+
+
+            }
+            else
+            {
+                MessageBox.Show("Error!!, NO se pudo actualizar el Estado Civil", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+            }
+
+        }
+
+        private async Task ModificarNuevoEstadoCivilAsync(string nuevoEstado,int IdViejoEstado)
+        {
+           EstadoCivil MiNuevoEstado = new EstadoCivil(IdViejoEstado, nuevoEstado);
+
+            string bodyContent = JsonConvert.SerializeObject(MiNuevoEstado);
+            string url = "https://localhost:7224/ModificarEstadoCivilEnTabla"; 
+            var result = await ClientSingleton.GetInstance().PostAsync(url, bodyContent);
+
+            if (result.Equals("true"))
+            {
+                MessageBox.Show("Se Actualizo en la tabla Estado Civil el Estado Civil con suministrado");
+               
+
+            }
+            else
+            {
+                MessageBox.Show("Error!!, NO se pudo actualizar el Estado Civil registrado anteriormente", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
+            }
+
+        }
+
+
 
 
         private async void btnGrabarNuevoEstado_Click(object sender, EventArgs e)

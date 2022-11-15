@@ -75,13 +75,10 @@ namespace BancoApp_Formularios.Presentacion
                 {
                     for (int i = 0; i < (DtCbu.Rows.Count); i++)
                     {
-
                         ArrCBUOrigen[i] = Convert.ToDouble(DtCbu.Rows[i]["CBU"]);
                         ArrCBUDestino[i] = Convert.ToDouble(DtCbu.Rows[i]["CBU"]);
-
                     }
                     cboCuentaOrigen.DataSource = ArrCBUOrigen;
-
                     CboCuentaDestino.DataSource = ArrCBUDestino;
                 }
 
@@ -128,7 +125,6 @@ namespace BancoApp_Formularios.Presentacion
                     if (item.Cells["Tipo de cuenta"].Value.ToString().Equals("Caja de Ahorro en USD"))
                     {
                         OrigenUsd = true;
-
                     }
                 }
 
@@ -147,10 +143,6 @@ namespace BancoApp_Formularios.Presentacion
                     MessageBox.Show("No puede transfrerir de cuentas que manejan moneda diferente, si la cuenta origen es en pesos debe transferir a una cuenta en pesos, y si es en Dolares el origen debe transferir a una cueta en Dolares","ATENCION!!!");
                 return;
                 }
-            
-            
-           
-
 
             double importe = Convert.ToDouble(txtImporteaTransferir.Text);
             if (verificarSaldo(importe))
@@ -162,9 +154,7 @@ namespace BancoApp_Formularios.Presentacion
             {
                 MessageBox.Show("No dispone del saldo suficiente para realizar esta transferencia","ATENCION!!!");
                 return;
-            }
-          
-
+            }     
 
         }
 
@@ -174,8 +164,6 @@ namespace BancoApp_Formularios.Presentacion
             bool ok = false;
             double montoATransferir = importe;
             double saldoCuentaOrigen=0;
-
-
 
             foreach(DataGridViewRow item in dgvCuentas.Rows)
             {
@@ -192,9 +180,7 @@ namespace BancoApp_Formularios.Presentacion
             return ok;
         }
         private async Task RealizarTransferencia()
-        {
-
-            
+        {            
             List<Cuenta> Transfer = new List<Cuenta>();
 
             Origen.Cbu = Convert.ToDouble(cboCuentaOrigen.Text);
@@ -203,29 +189,23 @@ namespace BancoApp_Formularios.Presentacion
             Destino.Saldo = Convert.ToDouble(txtImporteaTransferir.Text);
 
             Transfer.Add(Origen); // uso saldo, pero es el importe a transferir
-            Transfer.Add(Destino);
-
-            
+            Transfer.Add(Destino);            
 
             string bodyContent = JsonConvert.SerializeObject(Transfer);
             string url = "https://localhost:7224/RealizarTransferencia"; 
             var result = await ClientSingleton.GetInstance().PostAsync(url, bodyContent);
 
 
-
             if (result.Equals("true"))
             {
                 MessageBox.Show("Se realizo la transferencia con exito", "BIEN", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
-
-            }
+             }
             else
             {
                 MessageBox.Show("Error!!, NO realizo la transferencia", "ERROR", MessageBoxButtons.OKCancel, MessageBoxIcon.None);
             }
 
-
         }
-
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             limpiarCampos();
