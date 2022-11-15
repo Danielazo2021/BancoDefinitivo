@@ -1,2 +1,2 @@
-validar transferencia no importes negativos,
-mofificar el form de soporte, para que hagan un abm completa de estado y de lo otro
+primero instalar la base de datos.
+luego ejecutar el archivo SLN, cuando pide iniciar sesion puede rescatar un unuario y contraseña de la base o generar uno nuevo, requisitos, nº de dni real de 7 a 9 digitos y pass que contenga al menos 1 mayuscula, 1 minuscula, 1 caracter especial y un numero con una longitud exacta de 10 digitos.
